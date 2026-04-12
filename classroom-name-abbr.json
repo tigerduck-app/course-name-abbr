@@ -1,0 +1,5082 @@
+{
+  "115研討室": {
+    "shortened_name": "115研討室",
+    "pinyin": "115 Yan Tao Shi",
+    "translated": "115 Seminar Room"
+  },
+  "AU-101": {
+    "shortened_name": "AU-101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E1-134": {
+    "shortened_name": "E1-134",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E1-160": {
+    "shortened_name": "E1-160",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E1-170-1": {
+    "shortened_name": "E1-170-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E1-223": {
+    "shortened_name": "E1-223",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E1-243": {
+    "shortened_name": "E1-243",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E1-245": {
+    "shortened_name": "E1-245",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E1-261": {
+    "shortened_name": "E1-261",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E1-306": {
+    "shortened_name": "E1-306",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E1-470": {
+    "shortened_name": "E1-470",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E2-001": {
+    "shortened_name": "E2-001",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E2-102": {
+    "shortened_name": "E2-102",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E2-103": {
+    "shortened_name": "E2-103",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E2-220": {
+    "shortened_name": "E2-220",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E2-302": {
+    "shortened_name": "E2-302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E2-318": {
+    "shortened_name": "E2-318",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E2-323": {
+    "shortened_name": "E2-323",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E2-324": {
+    "shortened_name": "E2-324",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E2-403": {
+    "shortened_name": "E2-403",
+    "pinyin": "",
+    "translated": ""
+  },
+  "E2-412": {
+    "shortened_name": "E2-412",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-102": {
+    "shortened_name": "EE-102",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-103": {
+    "shortened_name": "EE-103",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-311": {
+    "shortened_name": "EE-311",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-401": {
+    "shortened_name": "EE-401",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-406": {
+    "shortened_name": "EE-406",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-407": {
+    "shortened_name": "EE-407",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-503": {
+    "shortened_name": "EE-503",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-701": {
+    "shortened_name": "EE-701",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-812": {
+    "shortened_name": "EE-812",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-B03": {
+    "shortened_name": "EE-B03",
+    "pinyin": "",
+    "translated": ""
+  },
+  "EE-B05": {
+    "shortened_name": "EE-B05",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan": {
+    "shortened_name": "Gongguan",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Assembly Hall": {
+    "shortened_name": "Gongguan Assembly Hall",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan B101": {
+    "shortened_name": "Gongguan B101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan B102": {
+    "shortened_name": "Gongguan B102",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan B103": {
+    "shortened_name": "Gongguan B103",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan B413": {
+    "shortened_name": "Gongguan B413",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan C003": {
+    "shortened_name": "Gongguan C003",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan C004": {
+    "shortened_name": "Gongguan C004",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan C107": {
+    "shortened_name": "Gongguan C107",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan C302": {
+    "shortened_name": "Gongguan C302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan C303B": {
+    "shortened_name": "Gongguan C303B",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Classroom 1, Gymnasium 2F": {
+    "shortened_name": "Gongguan Classroom 1, Gym 2F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan D201": {
+    "shortened_name": "Gongguan D201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan D203": {
+    "shortened_name": "Gongguan D203",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan D205": {
+    "shortened_name": "Gongguan D205",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan D313": {
+    "shortened_name": "Gongguan D313",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan E-Classroom, Gymnasium 3F": {
+    "shortened_name": "Gongguan E-Classroom, Gym 3F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan E101": {
+    "shortened_name": "Gongguan E101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan E102": {
+    "shortened_name": "Gongguan E102",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan E201": {
+    "shortened_name": "Gongguan E201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan E202": {
+    "shortened_name": "Gongguan E202",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan E301": {
+    "shortened_name": "Gongguan E301",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan E302": {
+    "shortened_name": "Gongguan E302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Earth Materials Lab.": {
+    "shortened_name": "Gongguan Earth Materials Lab.",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan GISMEE-R304": {
+    "shortened_name": "Gongguan GISMEE-R304",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan GISMEE-R409": {
+    "shortened_name": "Gongguan GISMEE-R409",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan International Conference Room": {
+    "shortened_name": "Gongguan Intl Conf Rm",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan M210": {
+    "shortened_name": "Gongguan M210",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan M211": {
+    "shortened_name": "Gongguan M211",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan M212": {
+    "shortened_name": "Gongguan M212",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan M310": {
+    "shortened_name": "Gongguan M310",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan M311": {
+    "shortened_name": "Gongguan M311",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Meteorology Lab.": {
+    "shortened_name": "Gongguan Meteorology Lab.",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Modern Physics Lab": {
+    "shortened_name": "Gongguan Modern Physics Lab",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Multi-Sport Court, Gymnasium 3F": {
+    "shortened_name": "Gongguan Multi-Sport Ct, Gym 3F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Paleontology Lab.": {
+    "shortened_name": "Gongguan Paleontology Lab.",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Physics Wonder Lab": {
+    "shortened_name": "Gongguan Physics Wonder Lab",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan R001": {
+    "shortened_name": "Gongguan R001",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan R002": {
+    "shortened_name": "Gongguan R002",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan R003": {
+    "shortened_name": "Gongguan R003",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan R801": {
+    "shortened_name": "Gongguan R801",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan R802": {
+    "shortened_name": "Gongguan R802",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan R807": {
+    "shortened_name": "Gongguan R807",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S101": {
+    "shortened_name": "Gongguan S101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S102": {
+    "shortened_name": "Gongguan S102",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S201": {
+    "shortened_name": "Gongguan S201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S202": {
+    "shortened_name": "Gongguan S202",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S203": {
+    "shortened_name": "Gongguan S203",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S204": {
+    "shortened_name": "Gongguan S204",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S301": {
+    "shortened_name": "Gongguan S301",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S302": {
+    "shortened_name": "Gongguan S302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S303": {
+    "shortened_name": "Gongguan S303",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S304": {
+    "shortened_name": "Gongguan S304",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S306": {
+    "shortened_name": "Gongguan S306",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S307": {
+    "shortened_name": "Gongguan S307",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S401": {
+    "shortened_name": "Gongguan S401",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S402": {
+    "shortened_name": "Gongguan S402",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S403": {
+    "shortened_name": "Gongguan S403",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S404": {
+    "shortened_name": "Gongguan S404",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S406": {
+    "shortened_name": "Gongguan S406",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S407": {
+    "shortened_name": "Gongguan S407",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S501": {
+    "shortened_name": "Gongguan S501",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S502": {
+    "shortened_name": "Gongguan S502",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S503": {
+    "shortened_name": "Gongguan S503",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S504": {
+    "shortened_name": "Gongguan S504",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S505": {
+    "shortened_name": "Gongguan S505",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S506": {
+    "shortened_name": "Gongguan S506",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S601": {
+    "shortened_name": "Gongguan S601",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S602": {
+    "shortened_name": "Gongguan S602",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S603": {
+    "shortened_name": "Gongguan S603",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S605": {
+    "shortened_name": "Gongguan S605",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan S701": {
+    "shortened_name": "Gongguan S701",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Tennis Court 2": {
+    "shortened_name": "Gongguan Tennis Ct 2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Track and Field Ground": {
+    "shortened_name": "Gongguan Track Field",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Gongguan Weight Training Room, Assembly Hall B1": {
+    "shortened_name": "Gongguan Weight Rm, Assembly Hall B1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping": {
+    "shortened_name": "Heping",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping 1st classroom of Grad. Student (4F )": {
+    "shortened_name": "Heping 1st classroom of Grad. Student (4F )",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping 2nd classroom of Grad. student (4F)": {
+    "shortened_name": "Heping 2nd classroom of Grad. student (4F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping 3rd classroom of Grad. student (4F)": {
+    "shortened_name": "Heping 3rd classroom of Grad. student (4F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping 50-meter Heated Swimming Pool, Aquatic Center 1F": {
+    "shortened_name": "Heping 50-meter Heated Swimming Pool, Aquatic Center 1F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping AV Classroom of History Dept. (4F)": {
+    "shortened_name": "Heping AV Classroom of History Dept. (4F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 101": {
+    "shortened_name": "Heping Art 101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 201": {
+    "shortened_name": "Heping Art 201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 203": {
+    "shortened_name": "Heping Art 203",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 301": {
+    "shortened_name": "Heping Art 301",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 302": {
+    "shortened_name": "Heping Art 302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 305": {
+    "shortened_name": "Heping Art 305",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 401": {
+    "shortened_name": "Heping Art 401",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 402": {
+    "shortened_name": "Heping Art 402",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 403": {
+    "shortened_name": "Heping Art 403",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 405": {
+    "shortened_name": "Heping Art 405",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 502": {
+    "shortened_name": "Heping Art 502",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 504": {
+    "shortened_name": "Heping Art 504",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 506": {
+    "shortened_name": "Heping Art 506",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art 602": {
+    "shortened_name": "Heping Art 602",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art Museum 501": {
+    "shortened_name": "Heping Art Museum 501",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art Museum 601": {
+    "shortened_name": "Heping Art Museum 601",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Art Museum 602": {
+    "shortened_name": "Heping Art Museum 602",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping B111": {
+    "shortened_name": "Heping B111",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping CAD/CAM Classroom (TC115-7)": {
+    "shortened_name": "Heping CAD/CAM Classroom (TC115-7)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Center for Regional Studies (Dept. of Geography)": {
+    "shortened_name": "Heping Center for Regional Studies (Dept. of Geography)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 101": {
+    "shortened_name": "Heping Cheng 101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 102": {
+    "shortened_name": "Heping Cheng 102",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 104": {
+    "shortened_name": "Heping Cheng 104",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 105": {
+    "shortened_name": "Heping Cheng 105",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 106": {
+    "shortened_name": "Heping Cheng 106",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 107": {
+    "shortened_name": "Heping Cheng 107",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 108": {
+    "shortened_name": "Heping Cheng 108",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 109": {
+    "shortened_name": "Heping Cheng 109",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 201": {
+    "shortened_name": "Heping Cheng 201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 202": {
+    "shortened_name": "Heping Cheng 202",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 203": {
+    "shortened_name": "Heping Cheng 203",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 204": {
+    "shortened_name": "Heping Cheng 204",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 205": {
+    "shortened_name": "Heping Cheng 205",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 206": {
+    "shortened_name": "Heping Cheng 206",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 207": {
+    "shortened_name": "Heping Cheng 207",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 208": {
+    "shortened_name": "Heping Cheng 208",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 301": {
+    "shortened_name": "Heping Cheng 301",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 302": {
+    "shortened_name": "Heping Cheng 302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 304": {
+    "shortened_name": "Heping Cheng 304",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 305": {
+    "shortened_name": "Heping Cheng 305",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 306": {
+    "shortened_name": "Heping Cheng 306",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 307": {
+    "shortened_name": "Heping Cheng 307",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 401": {
+    "shortened_name": "Heping Cheng 401",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 402": {
+    "shortened_name": "Heping Cheng 402",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 504": {
+    "shortened_name": "Heping Cheng 504",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 505": {
+    "shortened_name": "Heping Cheng 505",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 506": {
+    "shortened_name": "Heping Cheng 506",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 602": {
+    "shortened_name": "Heping Cheng 602",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 701A": {
+    "shortened_name": "Heping Cheng 701A",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Cheng 701B": {
+    "shortened_name": "Heping Cheng 701B",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Chin 001": {
+    "shortened_name": "Heping Chin 001",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Chin 302": {
+    "shortened_name": "Heping Chin 302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Chin 308": {
+    "shortened_name": "Heping Chin 308",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Chin 601": {
+    "shortened_name": "Heping Chin 601",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Chin 602": {
+    "shortened_name": "Heping Chin 602",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Chin 603": {
+    "shortened_name": "Heping Chin 603",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Classroom 1, Gymnasium 3F": {
+    "shortened_name": "Heping Classroom 1, Gym 3F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Classroom 2, Gymnasium 3F": {
+    "shortened_name": "Heping Classroom 2, Gym 3F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Classroom 3, Gymnasium 3F": {
+    "shortened_name": "Heping Classroom 3, Gym 3F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Computer Lab (Dept. of Geography)": {
+    "shortened_name": "Heping Computer Lab (Dept. of Geography)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Conference Room (Basement 1)": {
+    "shortened_name": "Heping Conf Rm (Basement 1)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Conference Room (Dept. of Geography)": {
+    "shortened_name": "Heping Conf Rm (Dept. of Geography)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Conference Room 1 (3F)": {
+    "shortened_name": "Heping Conf Rm 1 (3F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Conference Room 2 (1F)": {
+    "shortened_name": "Heping Conf Rm 2 (1F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Conference Room 301 (TC301)": {
+    "shortened_name": "Heping Conf Rm 301 (TC301)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Department of East Asian Studies Classroom I": {
+    "shortened_name": "Heping Dept. of East Asian Studies Classroom I",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Department of East Asian Studies Classroom II": {
+    "shortened_name": "Heping Dept. of East Asian Studies Classroom II",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Design 201": {
+    "shortened_name": "Heping Design 201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Design 202": {
+    "shortened_name": "Heping Design 202",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Design 301": {
+    "shortened_name": "Heping Design 301",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Design 302": {
+    "shortened_name": "Heping Design 302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Design 3C": {
+    "shortened_name": "Heping Design 3C",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Design 601": {
+    "shortened_name": "Heping Design 601",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Design913": {
+    "shortened_name": "Heping Design913",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Design914": {
+    "shortened_name": "Heping Design914",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED103": {
+    "shortened_name": "Heping ED103",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED310": {
+    "shortened_name": "Heping ED310",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED312": {
+    "shortened_name": "Heping ED312",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED315": {
+    "shortened_name": "Heping ED315",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED401": {
+    "shortened_name": "Heping ED401",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED402": {
+    "shortened_name": "Heping ED402",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED403": {
+    "shortened_name": "Heping ED403",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED404": {
+    "shortened_name": "Heping ED404",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED500": {
+    "shortened_name": "Heping ED500",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED511": {
+    "shortened_name": "Heping ED511",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED513": {
+    "shortened_name": "Heping ED513",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED600": {
+    "shortened_name": "Heping ED600",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED619": {
+    "shortened_name": "Heping ED619",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED710": {
+    "shortened_name": "Heping ED710",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED714": {
+    "shortened_name": "Heping ED714",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED801": {
+    "shortened_name": "Heping ED801",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED802": {
+    "shortened_name": "Heping ED802",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED803": {
+    "shortened_name": "Heping ED803",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED813": {
+    "shortened_name": "Heping ED813",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping ED900": {
+    "shortened_name": "Heping ED900",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Education 1004": {
+    "shortened_name": "Heping Edu 1004",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Education 1011": {
+    "shortened_name": "Heping Edu 1011",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Elite Athletes College, Gymnasium 3F": {
+    "shortened_name": "Heping Elite Athletes College, Gym 3F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Exhibition Hall 210": {
+    "shortened_name": "Heping Exhibition Hall 210",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Graduate Student Classroom I (4F)": {
+    "shortened_name": "Heping Grad Student Classroom I (4F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Graduate Student Classroom II (4F)": {
+    "shortened_name": "Heping Grad Student Classroom II (4F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Graduate Student Classroom III (4F)": {
+    "shortened_name": "Heping Grad Student Classroom III (4F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Gymnastic Room, Gymnasium 1F": {
+    "shortened_name": "Heping Gymnastic Rm, Gym 1F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping International Conference Center 509": {
+    "shortened_name": "Heping Intl Conf Ctr 509",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping International Conference Hall Jiao 202": {
+    "shortened_name": "Heping Intl Conf Hall Jiao 202",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping International Lecture Hall Jiao 201": {
+    "shortened_name": "Heping Intl Lect Hall Jiao 201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 101": {
+    "shortened_name": "Heping Jeng 101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 102": {
+    "shortened_name": "Heping Jeng 102",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 103": {
+    "shortened_name": "Heping Jeng 103",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 104": {
+    "shortened_name": "Heping Jeng 104",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 105": {
+    "shortened_name": "Heping Jeng 105",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 106": {
+    "shortened_name": "Heping Jeng 106",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 201": {
+    "shortened_name": "Heping Jeng 201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 202": {
+    "shortened_name": "Heping Jeng 202",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 203": {
+    "shortened_name": "Heping Jeng 203",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 204": {
+    "shortened_name": "Heping Jeng 204",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 205": {
+    "shortened_name": "Heping Jeng 205",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 206": {
+    "shortened_name": "Heping Jeng 206",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 301": {
+    "shortened_name": "Heping Jeng 301",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 302": {
+    "shortened_name": "Heping Jeng 302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 303": {
+    "shortened_name": "Heping Jeng 303",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 305": {
+    "shortened_name": "Heping Jeng 305",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 306": {
+    "shortened_name": "Heping Jeng 306",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 401": {
+    "shortened_name": "Heping Jeng 401",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 402A": {
+    "shortened_name": "Heping Jeng 402A",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 403": {
+    "shortened_name": "Heping Jeng 403",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 404": {
+    "shortened_name": "Heping Jeng 404",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 405": {
+    "shortened_name": "Heping Jeng 405",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Jeng 406": {
+    "shortened_name": "Heping Jeng 406",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Large Dance Room, Gymnasium 1F": {
+    "shortened_name": "Heping Dance Rm, Gym 1F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Lecture Hall 202": {
+    "shortened_name": "Heping Lect Hall 202",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping MCOM Classroom I": {
+    "shortened_name": "Heping MCOM Classroom I",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Martial Art Room, Gymnasium B1": {
+    "shortened_name": "Heping Martial Art Rm, Gym B1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Meeting room, Gymnasium 2F": {
+    "shortened_name": "Heping Meeting room, Gym 2F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Multi-Sport Court, Gymnasium 4F": {
+    "shortened_name": "Heping Multi-Sport Ct, Gym 4F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Music 209": {
+    "shortened_name": "Heping Music 209",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Music 210": {
+    "shortened_name": "Heping Music 210",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Music 308": {
+    "shortened_name": "Heping Music 308",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Music 409": {
+    "shortened_name": "Heping Music 409",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Music 410": {
+    "shortened_name": "Heping Music 410",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Music B102": {
+    "shortened_name": "Heping Music B102",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Music Graduate Institute Room I": {
+    "shortened_name": "Heping Music Graduate Institute Room I",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Music Graduate Institute Room II": {
+    "shortened_name": "Heping Music Graduate Institute Room II",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Music Graduate Institute Room IV": {
+    "shortened_name": "Heping Music Graduate Institute Room IV",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Performing Arts and Chinese Musical Center (9F)": {
+    "shortened_name": "Heping Performing Arts and Chinese Musical Center (9F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping PhD. Seminar Room (5F)": {
+    "shortened_name": "Heping PhD. Sem Rm (5F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 105": {
+    "shortened_name": "Heping Pu 105",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 201": {
+    "shortened_name": "Heping Pu 201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 202": {
+    "shortened_name": "Heping Pu 202",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 203": {
+    "shortened_name": "Heping Pu 203",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 204": {
+    "shortened_name": "Heping Pu 204",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 205": {
+    "shortened_name": "Heping Pu 205",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 206": {
+    "shortened_name": "Heping Pu 206",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 302": {
+    "shortened_name": "Heping Pu 302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 303": {
+    "shortened_name": "Heping Pu 303",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 304": {
+    "shortened_name": "Heping Pu 304",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 305": {
+    "shortened_name": "Heping Pu 305",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 306": {
+    "shortened_name": "Heping Pu 306",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 307": {
+    "shortened_name": "Heping Pu 307",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 401": {
+    "shortened_name": "Heping Pu 401",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 402": {
+    "shortened_name": "Heping Pu 402",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 403": {
+    "shortened_name": "Heping Pu 403",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 404": {
+    "shortened_name": "Heping Pu 404",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 406": {
+    "shortened_name": "Heping Pu 406",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu 407": {
+    "shortened_name": "Heping Pu 407",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Pu SW504": {
+    "shortened_name": "Heping Pu SW504",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Qingtian Room 405": {
+    "shortened_name": "Heping Qingtian Room 405",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Qingtian Room 406": {
+    "shortened_name": "Heping Qingtian Room 406",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R1001": {
+    "shortened_name": "Heping R1001",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R1002": {
+    "shortened_name": "Heping R1002",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R1003": {
+    "shortened_name": "Heping R1003",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R103": {
+    "shortened_name": "Heping R103",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R112": {
+    "shortened_name": "Heping R112",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R113": {
+    "shortened_name": "Heping R113",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R114": {
+    "shortened_name": "Heping R114",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R115": {
+    "shortened_name": "Heping R115",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R116": {
+    "shortened_name": "Heping R116",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R203": {
+    "shortened_name": "Heping R203",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R227": {
+    "shortened_name": "Heping R227",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R230": {
+    "shortened_name": "Heping R230",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R301": {
+    "shortened_name": "Heping R301",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R317": {
+    "shortened_name": "Heping R317",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R328": {
+    "shortened_name": "Heping R328",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R404": {
+    "shortened_name": "Heping R404",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R413": {
+    "shortened_name": "Heping R413",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R505": {
+    "shortened_name": "Heping R505",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R506": {
+    "shortened_name": "Heping R506",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R601": {
+    "shortened_name": "Heping R601",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R602": {
+    "shortened_name": "Heping R602",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R603": {
+    "shortened_name": "Heping R603",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R604": {
+    "shortened_name": "Heping R604",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R901": {
+    "shortened_name": "Heping R901",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping R903": {
+    "shortened_name": "Heping R903",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Recital Hall": {
+    "shortened_name": "Heping Recital Hall",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Scout Hall (10F)": {
+    "shortened_name": "Heping Scout Hall (10F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Scout Skill Laboratory (10F)": {
+    "shortened_name": "Heping Scout Skill Laboratory (10F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Seminar Room #5 (Dept. of Geography)": {
+    "shortened_name": "Heping Sem Rm #5 (Dept. of Geography)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Seminar Room #6 (Dept. of Geography)": {
+    "shortened_name": "Heping Sem Rm #6 (Dept. of Geography)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Seminar Room A (5F)": {
+    "shortened_name": "Heping Sem Rm A (5F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Seminar Room B (5F)": {
+    "shortened_name": "Heping Sem Rm B (5F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TA210": {
+    "shortened_name": "Heping TA210",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TA212": {
+    "shortened_name": "Heping TA212",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TA305": {
+    "shortened_name": "Heping TA305",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TA307": {
+    "shortened_name": "Heping TA307",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TA401": {
+    "shortened_name": "Heping TA401",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TA501": {
+    "shortened_name": "Heping TA501",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TA509": {
+    "shortened_name": "Heping TA509",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TA513": {
+    "shortened_name": "Heping TA513",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TB211": {
+    "shortened_name": "Heping TB211",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TB212": {
+    "shortened_name": "Heping TB212",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TB213": {
+    "shortened_name": "Heping TB213",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TB311": {
+    "shortened_name": "Heping TB311",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TB312": {
+    "shortened_name": "Heping TB312",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TC219": {
+    "shortened_name": "Heping TC219",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TD101": {
+    "shortened_name": "Heping TD101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TD303": {
+    "shortened_name": "Heping TD303",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TD405": {
+    "shortened_name": "Heping TD405",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping TDB101": {
+    "shortened_name": "Heping TDB101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Table Tennis Room, Gymnasium B1": {
+    "shortened_name": "Heping Table Tennis Rm, Gym B1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Teaching Materials Room (10F)": {
+    "shortened_name": "Heping Teach Mat Rm (10F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Tennis Court 1": {
+    "shortened_name": "Heping Tennis Ct 1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Track and Field Ground": {
+    "shortened_name": "Heping Track Field",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Weight Training Room, Gymnasium B1": {
+    "shortened_name": "Heping Weight Rm, Gym B1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Xingjian Studio": {
+    "shortened_name": "Heping Xingjian Studio",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Yun 201": {
+    "shortened_name": "Heping Yun 201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Yun 202": {
+    "shortened_name": "Heping Yun 202",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Yun 303": {
+    "shortened_name": "Heping Yun 303",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Yun 306": {
+    "shortened_name": "Heping Yun 306",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Yun 608": {
+    "shortened_name": "Heping Yun 608",
+    "pinyin": "",
+    "translated": ""
+  },
+  "Heping Zhi Yin Black Box Theatre (10F)": {
+    "shortened_name": "Heping Zhi Yin Black Box Theatre (10F)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-1006": {
+    "shortened_name": "IB-1006",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-101": {
+    "shortened_name": "IB-101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-304": {
+    "shortened_name": "IB-304",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-305": {
+    "shortened_name": "IB-305",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-306": {
+    "shortened_name": "IB-306",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-307": {
+    "shortened_name": "IB-307",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-308": {
+    "shortened_name": "IB-308",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-401": {
+    "shortened_name": "IB-401",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-408": {
+    "shortened_name": "IB-408",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-409-1": {
+    "shortened_name": "IB-409-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-409-2": {
+    "shortened_name": "IB-409-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-410-1": {
+    "shortened_name": "IB-410-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-410-2": {
+    "shortened_name": "IB-410-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-411": {
+    "shortened_name": "IB-411",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-501": {
+    "shortened_name": "IB-501",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-502": {
+    "shortened_name": "IB-502",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-503": {
+    "shortened_name": "IB-503",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-504": {
+    "shortened_name": "IB-504",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-505": {
+    "shortened_name": "IB-505",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-506": {
+    "shortened_name": "IB-506",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-507": {
+    "shortened_name": "IB-507",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-508": {
+    "shortened_name": "IB-508",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-509": {
+    "shortened_name": "IB-509",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-510-1": {
+    "shortened_name": "IB-510-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-510-2": {
+    "shortened_name": "IB-510-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-511-1": {
+    "shortened_name": "IB-511-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-511-2": {
+    "shortened_name": "IB-511-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-512": {
+    "shortened_name": "IB-512",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-601-1": {
+    "shortened_name": "IB-601-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-601-2": {
+    "shortened_name": "IB-601-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-602-1": {
+    "shortened_name": "IB-602-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-602-2": {
+    "shortened_name": "IB-602-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-607": {
+    "shortened_name": "IB-607",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-608": {
+    "shortened_name": "IB-608",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-609": {
+    "shortened_name": "IB-609",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-610": {
+    "shortened_name": "IB-610",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-712": {
+    "shortened_name": "IB-712",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-713": {
+    "shortened_name": "IB-713",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-801": {
+    "shortened_name": "IB-801",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-802": {
+    "shortened_name": "IB-802",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-810": {
+    "shortened_name": "IB-810",
+    "pinyin": "",
+    "translated": ""
+  },
+  "IB-9F": {
+    "shortened_name": "IB-9F",
+    "pinyin": "",
+    "translated": ""
+  },
+  "LB-001": {
+    "shortened_name": "LB-001",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-010": {
+    "shortened_name": "MA-010",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-101": {
+    "shortened_name": "MA-101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-206": {
+    "shortened_name": "MA-206",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-207": {
+    "shortened_name": "MA-207",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-215": {
+    "shortened_name": "MA-215",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-303": {
+    "shortened_name": "MA-303",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-313": {
+    "shortened_name": "MA-313",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-316": {
+    "shortened_name": "MA-316",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-405": {
+    "shortened_name": "MA-405",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-417": {
+    "shortened_name": "MA-417",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-419": {
+    "shortened_name": "MA-419",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-506": {
+    "shortened_name": "MA-506",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-519": {
+    "shortened_name": "MA-519",
+    "pinyin": "",
+    "translated": ""
+  },
+  "MA-520": {
+    "shortened_name": "MA-520",
+    "pinyin": "",
+    "translated": ""
+  },
+  "ME1-261": {
+    "shortened_name": "ME1-261",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-105": {
+    "shortened_name": "RB-105",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-201": {
+    "shortened_name": "RB-201",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-301": {
+    "shortened_name": "RB-301",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-403": {
+    "shortened_name": "RB-403",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-409": {
+    "shortened_name": "RB-409",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-410": {
+    "shortened_name": "RB-410",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-411": {
+    "shortened_name": "RB-411",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-412": {
+    "shortened_name": "RB-412",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-504": {
+    "shortened_name": "RB-504",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-508": {
+    "shortened_name": "RB-508",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-509": {
+    "shortened_name": "RB-509",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-510": {
+    "shortened_name": "RB-510",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-707": {
+    "shortened_name": "RB-707",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-708": {
+    "shortened_name": "RB-708",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-708(C1)(C4)": {
+    "shortened_name": "RB-708(C1)(C4)",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-708C1": {
+    "shortened_name": "RB-708C1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-708C4": {
+    "shortened_name": "RB-708C4",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-808": {
+    "shortened_name": "RB-808",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-809A": {
+    "shortened_name": "RB-809A",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-911": {
+    "shortened_name": "RB-911",
+    "pinyin": "",
+    "translated": ""
+  },
+  "RB-913": {
+    "shortened_name": "RB-913",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T2-101": {
+    "shortened_name": "T2-101",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T2-104": {
+    "shortened_name": "T2-104",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T2-206": {
+    "shortened_name": "T2-206",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T2-307": {
+    "shortened_name": "T2-307",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T2-308": {
+    "shortened_name": "T2-308",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T2-309": {
+    "shortened_name": "T2-309",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T2-411": {
+    "shortened_name": "T2-411",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T2-412": {
+    "shortened_name": "T2-412",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T2-510": {
+    "shortened_name": "T2-510",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T2-511": {
+    "shortened_name": "T2-511",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T3-301": {
+    "shortened_name": "T3-301",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T3-302": {
+    "shortened_name": "T3-302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T3-303": {
+    "shortened_name": "T3-303",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T3-304": {
+    "shortened_name": "T3-304",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T3-718": {
+    "shortened_name": "T3-718",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-301": {
+    "shortened_name": "T4-301",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-302": {
+    "shortened_name": "T4-302",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-303": {
+    "shortened_name": "T4-303",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-304": {
+    "shortened_name": "T4-304",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-306": {
+    "shortened_name": "T4-306",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-401-1": {
+    "shortened_name": "T4-401-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-402": {
+    "shortened_name": "T4-402",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-403": {
+    "shortened_name": "T4-403",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-404": {
+    "shortened_name": "T4-404",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-405": {
+    "shortened_name": "T4-405",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-406": {
+    "shortened_name": "T4-406",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-407": {
+    "shortened_name": "T4-407",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-601-2": {
+    "shortened_name": "T4-601-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-703-2": {
+    "shortened_name": "T4-703-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "T4-B1": {
+    "shortened_name": "T4-B1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-209": {
+    "shortened_name": "TR-209",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-210": {
+    "shortened_name": "TR-210",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-211": {
+    "shortened_name": "TR-211",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-212": {
+    "shortened_name": "TR-212",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-213": {
+    "shortened_name": "TR-213",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-214": {
+    "shortened_name": "TR-214",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-309": {
+    "shortened_name": "TR-309",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-310-1": {
+    "shortened_name": "TR-310-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-310-2": {
+    "shortened_name": "TR-310-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-311": {
+    "shortened_name": "TR-311",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-312": {
+    "shortened_name": "TR-312",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-313": {
+    "shortened_name": "TR-313",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-409-1": {
+    "shortened_name": "TR-409-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-409-2": {
+    "shortened_name": "TR-409-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-410": {
+    "shortened_name": "TR-410",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-411": {
+    "shortened_name": "TR-411",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-412-1": {
+    "shortened_name": "TR-412-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-412-2": {
+    "shortened_name": "TR-412-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-413-1": {
+    "shortened_name": "TR-413-1",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-413-2": {
+    "shortened_name": "TR-413-2",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-509": {
+    "shortened_name": "TR-509",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-510": {
+    "shortened_name": "TR-510",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-511": {
+    "shortened_name": "TR-511",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-512": {
+    "shortened_name": "TR-512",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-513": {
+    "shortened_name": "TR-513",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-514": {
+    "shortened_name": "TR-514",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-515": {
+    "shortened_name": "TR-515",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-516": {
+    "shortened_name": "TR-516",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-517": {
+    "shortened_name": "TR-517",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-609": {
+    "shortened_name": "TR-609",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-610": {
+    "shortened_name": "TR-610",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-611": {
+    "shortened_name": "TR-611",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-612": {
+    "shortened_name": "TR-612",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-613": {
+    "shortened_name": "TR-613",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-614": {
+    "shortened_name": "TR-614",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-615": {
+    "shortened_name": "TR-615",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-616": {
+    "shortened_name": "TR-616",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-617": {
+    "shortened_name": "TR-617",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-812": {
+    "shortened_name": "TR-812",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-829": {
+    "shortened_name": "TR-829",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-833": {
+    "shortened_name": "TR-833",
+    "pinyin": "",
+    "translated": ""
+  },
+  "TR-836": {
+    "shortened_name": "TR-836",
+    "pinyin": "",
+    "translated": ""
+  },
+  "off Campus": {
+    "shortened_name": "off Campus",
+    "pinyin": "",
+    "translated": ""
+  },
+  "off Campus Off Campus": {
+    "shortened_name": "off Campus Off Campus",
+    "pinyin": "",
+    "translated": ""
+  },
+  "中庭大講堂": {
+    "shortened_name": "中庭大講堂",
+    "pinyin": "Zhong Ting Da Jiang Tang",
+    "translated": "Atrium Lecture Hall"
+  },
+  "中文研討": {
+    "shortened_name": "中文研討",
+    "pinyin": "Zhong Wen Yan Tao",
+    "translated": "Chinese Dept Seminar Room"
+  },
+  "人文336": {
+    "shortened_name": "人文336",
+    "pinyin": "Ren Wen 336",
+    "translated": "Humanities 336"
+  },
+  "人文337": {
+    "shortened_name": "人文337",
+    "pinyin": "Ren Wen 337",
+    "translated": "Humanities 337"
+  },
+  "人文342": {
+    "shortened_name": "人文342",
+    "pinyin": "Ren Wen 342",
+    "translated": "Humanities 342"
+  },
+  "人文345": {
+    "shortened_name": "人文345",
+    "pinyin": "Ren Wen 345",
+    "translated": "Humanities 345"
+  },
+  "人文530": {
+    "shortened_name": "人文530",
+    "pinyin": "Ren Wen 530",
+    "translated": "Humanities 530"
+  },
+  "人文532": {
+    "shortened_name": "人文532",
+    "pinyin": "Ren Wen 532",
+    "translated": "Humanities 532"
+  },
+  "人文B106": {
+    "shortened_name": "人文B106",
+    "pinyin": "Ren Wen B106",
+    "translated": "Humanities B106"
+  },
+  "人文B107": {
+    "shortened_name": "人文B107",
+    "pinyin": "Ren Wen B107",
+    "translated": "Humanities B107"
+  },
+  "人文B109": {
+    "shortened_name": "人文B109",
+    "pinyin": "Ren Wen B109",
+    "translated": "Humanities B109"
+  },
+  "人文B114-1": {
+    "shortened_name": "人文B114-1",
+    "pinyin": "Ren Wen B114-1",
+    "translated": "Humanities B114-1"
+  },
+  "人文B201-1": {
+    "shortened_name": "人文B201-1",
+    "pinyin": "Ren Wen B201-1",
+    "translated": "Humanities B201-1"
+  },
+  "人文B208": {
+    "shortened_name": "人文B208",
+    "pinyin": "Ren Wen B208",
+    "translated": "Humanities B208"
+  },
+  "全變403": {
+    "shortened_name": "全變403",
+    "pinyin": "Quan Bian 403",
+    "translated": "Global Change Center 403"
+  },
+  "全變中心G202": {
+    "shortened_name": "全變中心G202",
+    "pinyin": "Quan Bian Zhong Xin G202",
+    "translated": "Global Change Research Center G202"
+  },
+  "公衛101": {
+    "shortened_name": "公衛101",
+    "pinyin": "Gong Wei 101",
+    "translated": "Public Health 101"
+  },
+  "公衛105": {
+    "shortened_name": "公衛105",
+    "pinyin": "Gong Wei 105",
+    "translated": "Public Health 105"
+  },
+  "公衛118": {
+    "shortened_name": "公衛118",
+    "pinyin": "Gong Wei 118",
+    "translated": "Public Health 118"
+  },
+  "公衛201": {
+    "shortened_name": "公衛201",
+    "pinyin": "Gong Wei 201",
+    "translated": "Public Health 201"
+  },
+  "公衛203": {
+    "shortened_name": "公衛203",
+    "pinyin": "Gong Wei 203",
+    "translated": "Public Health 203"
+  },
+  "公衛207": {
+    "shortened_name": "公衛207",
+    "pinyin": "Gong Wei 207",
+    "translated": "Public Health 207"
+  },
+  "公衛208": {
+    "shortened_name": "公衛208",
+    "pinyin": "Gong Wei 208",
+    "translated": "Public Health 208"
+  },
+  "公衛209": {
+    "shortened_name": "公衛209",
+    "pinyin": "Gong Wei 209",
+    "translated": "Public Health 209"
+  },
+  "公衛210": {
+    "shortened_name": "公衛210",
+    "pinyin": "Gong Wei 210",
+    "translated": "Public Health 210"
+  },
+  "公衛211": {
+    "shortened_name": "公衛211",
+    "pinyin": "Gong Wei 211",
+    "translated": "Public Health 211"
+  },
+  "公衛212": {
+    "shortened_name": "公衛212",
+    "pinyin": "Gong Wei 212",
+    "translated": "Public Health 212"
+  },
+  "公衛213": {
+    "shortened_name": "公衛213",
+    "pinyin": "Gong Wei 213",
+    "translated": "Public Health 213"
+  },
+  "公衛215": {
+    "shortened_name": "公衛215",
+    "pinyin": "Gong Wei 215",
+    "translated": "Public Health 215"
+  },
+  "公衛648(原601": {
+    "shortened_name": "公衛648(原601",
+    "pinyin": "Gong Wei 648( Yuan 601",
+    "translated": "Public Health 648(orig. 601"
+  },
+  "公館101": {
+    "shortened_name": "公館101",
+    "pinyin": "Gong Guan 101",
+    "translated": "Gongguan 101"
+  },
+  "公館校區B棟": {
+    "shortened_name": "公館校區B棟",
+    "pinyin": "Gong Guan Xiao Qu B Dong",
+    "translated": "Gongguan Campus Bldg B"
+  },
+  "共101": {
+    "shortened_name": "共101",
+    "pinyin": "Gong 101",
+    "translated": "Gongtong Lecture Building 101"
+  },
+  "共102": {
+    "shortened_name": "共102",
+    "pinyin": "Gong 102",
+    "translated": "Gongtong Lecture Building 102"
+  },
+  "共103": {
+    "shortened_name": "共103",
+    "pinyin": "Gong 103",
+    "translated": "Gongtong Lecture Building 103"
+  },
+  "共104": {
+    "shortened_name": "共104",
+    "pinyin": "Gong 104",
+    "translated": "Gongtong Lecture Building 104"
+  },
+  "共105": {
+    "shortened_name": "共105",
+    "pinyin": "Gong 105",
+    "translated": "Gongtong Lecture Building 105"
+  },
+  "共201": {
+    "shortened_name": "共201",
+    "pinyin": "Gong 201",
+    "translated": "Gongtong Lecture Building 201"
+  },
+  "共202": {
+    "shortened_name": "共202",
+    "pinyin": "Gong 202",
+    "translated": "Gongtong Lecture Building 202"
+  },
+  "共203": {
+    "shortened_name": "共203",
+    "pinyin": "Gong 203",
+    "translated": "Gongtong Lecture Building 203"
+  },
+  "共204": {
+    "shortened_name": "共204",
+    "pinyin": "Gong 204",
+    "translated": "Gongtong Lecture Building 204"
+  },
+  "共205": {
+    "shortened_name": "共205",
+    "pinyin": "Gong 205",
+    "translated": "Gongtong Lecture Building 205"
+  },
+  "共206": {
+    "shortened_name": "共206",
+    "pinyin": "Gong 206",
+    "translated": "Gongtong Lecture Building 206"
+  },
+  "共207": {
+    "shortened_name": "共207",
+    "pinyin": "Gong 207",
+    "translated": "Gongtong Lecture Building 207"
+  },
+  "共208": {
+    "shortened_name": "共208",
+    "pinyin": "Gong 208",
+    "translated": "Gongtong Lecture Building 208"
+  },
+  "共301": {
+    "shortened_name": "共301",
+    "pinyin": "Gong 301",
+    "translated": "Gongtong Lecture Building 301"
+  },
+  "共302": {
+    "shortened_name": "共302",
+    "pinyin": "Gong 302",
+    "translated": "Gongtong Lecture Building 302"
+  },
+  "共303": {
+    "shortened_name": "共303",
+    "pinyin": "Gong 303",
+    "translated": "Gongtong Lecture Building 303"
+  },
+  "共304": {
+    "shortened_name": "共304",
+    "pinyin": "Gong 304",
+    "translated": "Gongtong Lecture Building 304"
+  },
+  "共305": {
+    "shortened_name": "共305",
+    "pinyin": "Gong 305",
+    "translated": "Gongtong Lecture Building 305"
+  },
+  "共306": {
+    "shortened_name": "共306",
+    "pinyin": "Gong 306",
+    "translated": "Gongtong Lecture Building 306"
+  },
+  "共307": {
+    "shortened_name": "共307",
+    "pinyin": "Gong 307",
+    "translated": "Gongtong Lecture Building 307"
+  },
+  "共308": {
+    "shortened_name": "共308",
+    "pinyin": "Gong 308",
+    "translated": "Gongtong Lecture Building 308"
+  },
+  "共401": {
+    "shortened_name": "共401",
+    "pinyin": "Gong 401",
+    "translated": "Gongtong Lecture Building 401"
+  },
+  "共402": {
+    "shortened_name": "共402",
+    "pinyin": "Gong 402",
+    "translated": "Gongtong Lecture Building 402"
+  },
+  "共403": {
+    "shortened_name": "共403",
+    "pinyin": "Gong 403",
+    "translated": "Gongtong Lecture Building 403"
+  },
+  "共404": {
+    "shortened_name": "共404",
+    "pinyin": "Gong 404",
+    "translated": "Gongtong Lecture Building 404"
+  },
+  "共405": {
+    "shortened_name": "共405",
+    "pinyin": "Gong 405",
+    "translated": "Gongtong Lecture Building 405"
+  },
+  "共406": {
+    "shortened_name": "共406",
+    "pinyin": "Gong 406",
+    "translated": "Gongtong Lecture Building 406"
+  },
+  "共407": {
+    "shortened_name": "共407",
+    "pinyin": "Gong 407",
+    "translated": "Gongtong Lecture Building 407"
+  },
+  "冠德講堂": {
+    "shortened_name": "冠德講堂",
+    "pinyin": "Guan De Jiang Tang",
+    "translated": "Guande Lecture Hall"
+  },
+  "加工204室": {
+    "shortened_name": "加工204室",
+    "pinyin": "Jia Gong 204 Shi",
+    "translated": "Processing 204"
+  },
+  "化121": {
+    "shortened_name": "化121",
+    "pinyin": "Hua 121",
+    "translated": "Chemistry Building 121"
+  },
+  "化210室": {
+    "shortened_name": "化210室",
+    "pinyin": "Hua 210 Shi",
+    "translated": "Chemistry Building 210"
+  },
+  "北館N206": {
+    "shortened_name": "北館N206",
+    "pinyin": "Bei Guan N206",
+    "translated": "North Building N206"
+  },
+  "北館視聽": {
+    "shortened_name": "北館視聽",
+    "pinyin": "Bei Guan Shi Ting",
+    "translated": "North Building Shi Ting"
+  },
+  "卓R505": {
+    "shortened_name": "卓R505",
+    "pinyin": "Zhuo R505",
+    "translated": "Research Excellence Building R505"
+  },
+  "卓R506": {
+    "shortened_name": "卓R506",
+    "pinyin": "Zhuo R506",
+    "translated": "Research Excellence Building R506"
+  },
+  "卓R508": {
+    "shortened_name": "卓R508",
+    "pinyin": "Zhuo R508",
+    "translated": "Research Excellence Building R508"
+  },
+  "南館S217": {
+    "shortened_name": "南館S217",
+    "pinyin": "Nan Guan S217",
+    "translated": "South Building S217"
+  },
+  "南館S309": {
+    "shortened_name": "南館S309",
+    "pinyin": "Nan Guan S309",
+    "translated": "South Building S309"
+  },
+  "南館地下A": {
+    "shortened_name": "南館地下A",
+    "pinyin": "Nan Guan Di Xia A",
+    "translated": "South Building Basement A"
+  },
+  "南館地下B": {
+    "shortened_name": "南館地下B",
+    "pinyin": "Nan Guan Di Xia B",
+    "translated": "South Building Basement B"
+  },
+  "博理103": {
+    "shortened_name": "博理103",
+    "pinyin": "Bo Li 103",
+    "translated": "Barry Lam Hall 103"
+  },
+  "博理112": {
+    "shortened_name": "博理112",
+    "pinyin": "Bo Li 112",
+    "translated": "Barry Lam Hall 112"
+  },
+  "博理113": {
+    "shortened_name": "博理113",
+    "pinyin": "Bo Li 113",
+    "translated": "Barry Lam Hall 113"
+  },
+  "博理114": {
+    "shortened_name": "博理114",
+    "pinyin": "Bo Li 114",
+    "translated": "Barry Lam Hall 114"
+  },
+  "博理212": {
+    "shortened_name": "博理212",
+    "pinyin": "Bo Li 212",
+    "translated": "Barry Lam Hall 212"
+  },
+  "博雅101/華南講": {
+    "shortened_name": "博雅101/華南講",
+    "pinyin": "Bo Ya 101/ Hua Nan Jiang",
+    "translated": "Boya Lecture Building 101/Huanan Lecture Hall"
+  },
+  "博雅102": {
+    "shortened_name": "博雅102",
+    "pinyin": "Bo Ya 102",
+    "translated": "Boya Lecture Building 102"
+  },
+  "博雅103": {
+    "shortened_name": "博雅103",
+    "pinyin": "Bo Ya 103",
+    "translated": "Boya Lecture Building 103"
+  },
+  "博雅201": {
+    "shortened_name": "博雅201",
+    "pinyin": "Bo Ya 201",
+    "translated": "Boya Lecture Building 201"
+  },
+  "博雅202": {
+    "shortened_name": "博雅202",
+    "pinyin": "Bo Ya 202",
+    "translated": "Boya Lecture Building 202"
+  },
+  "博雅203": {
+    "shortened_name": "博雅203",
+    "pinyin": "Bo Ya 203",
+    "translated": "Boya Lecture Building 203"
+  },
+  "博雅204": {
+    "shortened_name": "博雅204",
+    "pinyin": "Bo Ya 204",
+    "translated": "Boya Lecture Building 204"
+  },
+  "博雅205": {
+    "shortened_name": "博雅205",
+    "pinyin": "Bo Ya 205",
+    "translated": "Boya Lecture Building 205"
+  },
+  "博雅206": {
+    "shortened_name": "博雅206",
+    "pinyin": "Bo Ya 206",
+    "translated": "Boya Lecture Building 206"
+  },
+  "博雅301": {
+    "shortened_name": "博雅301",
+    "pinyin": "Bo Ya 301",
+    "translated": "Boya Lecture Building 301"
+  },
+  "博雅302": {
+    "shortened_name": "博雅302",
+    "pinyin": "Bo Ya 302",
+    "translated": "Boya Lecture Building 302"
+  },
+  "博雅303": {
+    "shortened_name": "博雅303",
+    "pinyin": "Bo Ya 303",
+    "translated": "Boya Lecture Building 303"
+  },
+  "博雅304": {
+    "shortened_name": "博雅304",
+    "pinyin": "Bo Ya 304",
+    "translated": "Boya Lecture Building 304"
+  },
+  "博雅305": {
+    "shortened_name": "博雅305",
+    "pinyin": "Bo Ya 305",
+    "translated": "Boya Lecture Building 305"
+  },
+  "博雅306": {
+    "shortened_name": "博雅306",
+    "pinyin": "Bo Ya 306",
+    "translated": "Boya Lecture Building 306"
+  },
+  "博雅307": {
+    "shortened_name": "博雅307",
+    "pinyin": "Bo Ya 307",
+    "translated": "Boya Lecture Building 307"
+  },
+  "博雅308": {
+    "shortened_name": "博雅308",
+    "pinyin": "Bo Ya 308",
+    "translated": "Boya Lecture Building 308"
+  },
+  "博雅309": {
+    "shortened_name": "博雅309",
+    "pinyin": "Bo Ya 309",
+    "translated": "Boya Lecture Building 309"
+  },
+  "博雅310": {
+    "shortened_name": "博雅310",
+    "pinyin": "Bo Ya 310",
+    "translated": "Boya Lecture Building 310"
+  },
+  "博雅311": {
+    "shortened_name": "博雅311",
+    "pinyin": "Bo Ya 311",
+    "translated": "Boya Lecture Building 311"
+  },
+  "博雅312": {
+    "shortened_name": "博雅312",
+    "pinyin": "Bo Ya 312",
+    "translated": "Boya Lecture Building 312"
+  },
+  "博雅406": {
+    "shortened_name": "博雅406",
+    "pinyin": "Bo Ya 406",
+    "translated": "Boya Lecture Building 406"
+  },
+  "國發202": {
+    "shortened_name": "國發202",
+    "pinyin": "Guo Fa 202",
+    "translated": "Graduate Institute of National Development 202"
+  },
+  "國發204": {
+    "shortened_name": "國發204",
+    "pinyin": "Guo Fa 204",
+    "translated": "Graduate Institute of National Development 204"
+  },
+  "國發206": {
+    "shortened_name": "國發206",
+    "pinyin": "Guo Fa 206",
+    "translated": "Graduate Institute of National Development 206"
+  },
+  "國發208": {
+    "shortened_name": "國發208",
+    "pinyin": "Guo Fa 208",
+    "translated": "Graduate Institute of National Development 208"
+  },
+  "國發210": {
+    "shortened_name": "國發210",
+    "pinyin": "Guo Fa 210",
+    "translated": "Graduate Institute of National Development 210"
+  },
+  "國發300": {
+    "shortened_name": "國發300",
+    "pinyin": "Guo Fa 300",
+    "translated": "Graduate Institute of National Development 300"
+  },
+  "國發302": {
+    "shortened_name": "國發302",
+    "pinyin": "Guo Fa 302",
+    "translated": "Graduate Institute of National Development 302"
+  },
+  "國青101": {
+    "shortened_name": "國青101",
+    "pinyin": "Guo Qing 101",
+    "translated": "Guo-Ching Building 101"
+  },
+  "園藝R106": {
+    "shortened_name": "園藝R106",
+    "pinyin": "Yuan Yi R106",
+    "translated": "Horticulture R106"
+  },
+  "園藝R204": {
+    "shortened_name": "園藝R204",
+    "pinyin": "Yuan Yi R204",
+    "translated": "Horticulture R204"
+  },
+  "園藝R205": {
+    "shortened_name": "園藝R205",
+    "pinyin": "Yuan Yi R205",
+    "translated": "Horticulture R205"
+  },
+  "圖資會議室": {
+    "shortened_name": "圖資會議室",
+    "pinyin": "Tu Zi Hui Yi Shi",
+    "translated": "Library & Info Science Meeting Room"
+  },
+  "圖資研討2A": {
+    "shortened_name": "圖資研討2A",
+    "pinyin": "Tu Zi Yan Tao 2A",
+    "translated": "Library & Info Science Seminar 2 A"
+  },
+  "圖資研討3A": {
+    "shortened_name": "圖資研討3A",
+    "pinyin": "Tu Zi Yan Tao 3A",
+    "translated": "Library & Info Science Seminar 3 A"
+  },
+  "圖資編目室": {
+    "shortened_name": "圖資編目室",
+    "pinyin": "Tu Zi Bian Mu Shi",
+    "translated": "Library & Info Science Cataloging Room"
+  },
+  "圖資視聽室": {
+    "shortened_name": "圖資視聽室",
+    "pinyin": "Tu Zi Shi Ting Shi",
+    "translated": "Library & Info Science AV Room"
+  },
+  "圖資資訊室": {
+    "shortened_name": "圖資資訊室",
+    "pinyin": "Tu Zi Zi Xun Shi",
+    "translated": "Library & Info Science Info Room"
+  },
+  "土220": {
+    "shortened_name": "土220",
+    "pinyin": "Tu 220",
+    "translated": "Civil Engineering 220"
+  },
+  "土224": {
+    "shortened_name": "土224",
+    "pinyin": "Tu 224",
+    "translated": "Civil Engineering 224"
+  },
+  "土320": {
+    "shortened_name": "土320",
+    "pinyin": "Tu 320",
+    "translated": "Civil Engineering 320"
+  },
+  "土研401": {
+    "shortened_name": "土研401",
+    "pinyin": "Tu Yan 401",
+    "translated": "Civil Eng Research 401"
+  },
+  "土研402": {
+    "shortened_name": "土研402",
+    "pinyin": "Tu Yan 402",
+    "translated": "Civil Eng Research 402"
+  },
+  "土研405": {
+    "shortened_name": "土研405",
+    "pinyin": "Tu Yan 405",
+    "translated": "Civil Eng Research 405"
+  },
+  "土研407": {
+    "shortened_name": "土研407",
+    "pinyin": "Tu Yan 407",
+    "translated": "Civil Eng Research 407"
+  },
+  "地理305": {
+    "shortened_name": "地理305",
+    "pinyin": "Di Li 305",
+    "translated": "Geography 305"
+  },
+  "地理405": {
+    "shortened_name": "地理405",
+    "pinyin": "Di Li 405",
+    "translated": "Geography 405"
+  },
+  "地理一教室": {
+    "shortened_name": "地理一教室",
+    "pinyin": "Di Li Yi Jiao Shi",
+    "translated": "Geography Classroom I"
+  },
+  "地理二教室": {
+    "shortened_name": "地理二教室",
+    "pinyin": "Di Li Er Jiao Shi",
+    "translated": "Geography Classroom II"
+  },
+  "地理電腦室": {
+    "shortened_name": "地理電腦室",
+    "pinyin": "Di Li Dian Nao Shi",
+    "translated": "Geography Computer Room"
+  },
+  "地質212": {
+    "shortened_name": "地質212",
+    "pinyin": "Di Zhi 212",
+    "translated": "Geosciences 212"
+  },
+  "地質313": {
+    "shortened_name": "地質313",
+    "pinyin": "Di Zhi 313",
+    "translated": "Geosciences 313"
+  },
+  "地質315": {
+    "shortened_name": "地質315",
+    "pinyin": "Di Zhi 315",
+    "translated": "Geosciences 315"
+  },
+  "基醫1003": {
+    "shortened_name": "基醫1003",
+    "pinyin": "Ji Yi 1003",
+    "translated": "Basic Medical Science Building 1003"
+  },
+  "基醫101": {
+    "shortened_name": "基醫101",
+    "pinyin": "Ji Yi 101",
+    "translated": "Basic Medical Science Building 101"
+  },
+  "基醫102": {
+    "shortened_name": "基醫102",
+    "pinyin": "Ji Yi 102",
+    "translated": "Basic Medical Science Building 102"
+  },
+  "基醫104": {
+    "shortened_name": "基醫104",
+    "pinyin": "Ji Yi 104",
+    "translated": "Basic Medical Science Building 104"
+  },
+  "基醫201": {
+    "shortened_name": "基醫201",
+    "pinyin": "Ji Yi 201",
+    "translated": "Basic Medical Science Building 201"
+  },
+  "基醫301": {
+    "shortened_name": "基醫301",
+    "pinyin": "Ji Yi 301",
+    "translated": "Basic Medical Science Building 301"
+  },
+  "基醫302": {
+    "shortened_name": "基醫302",
+    "pinyin": "Ji Yi 302",
+    "translated": "Basic Medical Science Building 302"
+  },
+  "基醫303": {
+    "shortened_name": "基醫303",
+    "pinyin": "Ji Yi 303",
+    "translated": "Basic Medical Science Building 303"
+  },
+  "基醫304": {
+    "shortened_name": "基醫304",
+    "pinyin": "Ji Yi 304",
+    "translated": "Basic Medical Science Building 304"
+  },
+  "基醫402": {
+    "shortened_name": "基醫402",
+    "pinyin": "Ji Yi 402",
+    "translated": "Basic Medical Science Building 402"
+  },
+  "基醫403": {
+    "shortened_name": "基醫403",
+    "pinyin": "Ji Yi 403",
+    "translated": "Basic Medical Science Building 403"
+  },
+  "基醫406": {
+    "shortened_name": "基醫406",
+    "pinyin": "Ji Yi 406",
+    "translated": "Basic Medical Science Building 406"
+  },
+  "基醫503": {
+    "shortened_name": "基醫503",
+    "pinyin": "Ji Yi 503",
+    "translated": "Basic Medical Science Building 503"
+  },
+  "基醫504": {
+    "shortened_name": "基醫504",
+    "pinyin": "Ji Yi 504",
+    "translated": "Basic Medical Science Building 504"
+  },
+  "基醫508": {
+    "shortened_name": "基醫508",
+    "pinyin": "Ji Yi 508",
+    "translated": "Basic Medical Science Building 508"
+  },
+  "外教101": {
+    "shortened_name": "外教101",
+    "pinyin": "Wai Jiao 101",
+    "translated": "Foreign Language Center 101"
+  },
+  "外教102": {
+    "shortened_name": "外教102",
+    "pinyin": "Wai Jiao 102",
+    "translated": "Foreign Language Center 102"
+  },
+  "外教103": {
+    "shortened_name": "外教103",
+    "pinyin": "Wai Jiao 103",
+    "translated": "Foreign Language Center 103"
+  },
+  "外教104": {
+    "shortened_name": "外教104",
+    "pinyin": "Wai Jiao 104",
+    "translated": "Foreign Language Center 104"
+  },
+  "外教202": {
+    "shortened_name": "外教202",
+    "pinyin": "Wai Jiao 202",
+    "translated": "Foreign Language Center 202"
+  },
+  "外教203": {
+    "shortened_name": "外教203",
+    "pinyin": "Wai Jiao 203",
+    "translated": "Foreign Language Center 203"
+  },
+  "外教205": {
+    "shortened_name": "外教205",
+    "pinyin": "Wai Jiao 205",
+    "translated": "Foreign Language Center 205"
+  },
+  "外教206": {
+    "shortened_name": "外教206",
+    "pinyin": "Wai Jiao 206",
+    "translated": "Foreign Language Center 206"
+  },
+  "外教劇場": {
+    "shortened_name": "外教劇場",
+    "pinyin": "Wai Jiao Ju Chang",
+    "translated": "Foreign Language Center Theater"
+  },
+  "大氣A104": {
+    "shortened_name": "大氣A104",
+    "pinyin": "Da Qi A104",
+    "translated": "Atmospheric Sciences A104"
+  },
+  "大氣A108": {
+    "shortened_name": "大氣A108",
+    "pinyin": "Da Qi A108",
+    "translated": "Atmospheric Sciences A108"
+  },
+  "大氣A206": {
+    "shortened_name": "大氣A206",
+    "pinyin": "Da Qi A206",
+    "translated": "Atmospheric Sciences A206"
+  },
+  "大氣B105": {
+    "shortened_name": "大氣B105",
+    "pinyin": "Da Qi B105",
+    "translated": "Atmospheric Sciences B105"
+  },
+  "大氣系A100": {
+    "shortened_name": "大氣系A100",
+    "pinyin": "Da Qi Xi A100",
+    "translated": "Atmospheric Sciences A100"
+  },
+  "天數101": {
+    "shortened_name": "天數101",
+    "pinyin": "Tian Shu 101",
+    "translated": "Astronomy-Mathematics Building 101"
+  },
+  "天數102": {
+    "shortened_name": "天數102",
+    "pinyin": "Tian Shu 102",
+    "translated": "Astronomy-Mathematics Building 102"
+  },
+  "天數201": {
+    "shortened_name": "天數201",
+    "pinyin": "Tian Shu 201",
+    "translated": "Astronomy-Mathematics Building 201"
+  },
+  "天數202": {
+    "shortened_name": "天數202",
+    "pinyin": "Tian Shu 202",
+    "translated": "Astronomy-Mathematics Building 202"
+  },
+  "天數302": {
+    "shortened_name": "天數302",
+    "pinyin": "Tian Shu 302",
+    "translated": "Astronomy-Mathematics Building 302"
+  },
+  "天數304": {
+    "shortened_name": "天數304",
+    "pinyin": "Tian Shu 304",
+    "translated": "Astronomy-Mathematics Building 304"
+  },
+  "天數305": {
+    "shortened_name": "天數305",
+    "pinyin": "Tian Shu 305",
+    "translated": "Astronomy-Mathematics Building 305"
+  },
+  "天數810": {
+    "shortened_name": "天數810",
+    "pinyin": "Tian Shu 810",
+    "translated": "Astronomy-Mathematics Building 810"
+  },
+  "天數812": {
+    "shortened_name": "天數812",
+    "pinyin": "Tian Shu 812",
+    "translated": "Astronomy-Mathematics Building 812"
+  },
+  "學新603": {
+    "shortened_name": "學新603",
+    "pinyin": "Xue Xin 603",
+    "translated": "MK Innovation Hall 603"
+  },
+  "學新607": {
+    "shortened_name": "學新607",
+    "pinyin": "Xue Xin 607",
+    "translated": "MK Innovation Hall 607"
+  },
+  "學新609": {
+    "shortened_name": "學新609",
+    "pinyin": "Xue Xin 609",
+    "translated": "MK Innovation Hall 609"
+  },
+  "學新614": {
+    "shortened_name": "學新614",
+    "pinyin": "Xue Xin 614",
+    "translated": "MK Innovation Hall 614"
+  },
+  "學新705": {
+    "shortened_name": "學新705",
+    "pinyin": "Xue Xin 705",
+    "translated": "MK Innovation Hall 705"
+  },
+  "展書樓506": {
+    "shortened_name": "展書樓506",
+    "pinyin": "Zhan Shu Lou 506",
+    "translated": "Jan-Shu Hall 506"
+  },
+  "工業4.0中心": {
+    "shortened_name": "工業4.0中心",
+    "pinyin": "Gong Ye 4.0 Zhong Xin",
+    "translated": "Industry 4.0 Center"
+  },
+  "工業4.0中心電腦教室": {
+    "shortened_name": "工業4.0中心電腦教室",
+    "pinyin": "Gong Ye 4.0 Zhong Xin Dian Nao Jiao Shi",
+    "translated": "Industry 4.0 Center Computer Classroom"
+  },
+  "工科201": {
+    "shortened_name": "工科201",
+    "pinyin": "Gong Ke 201",
+    "translated": "Engineering & Tech 201"
+  },
+  "工科202": {
+    "shortened_name": "工科202",
+    "pinyin": "Gong Ke 202",
+    "translated": "Engineering & Tech 202"
+  },
+  "工科203": {
+    "shortened_name": "工科203",
+    "pinyin": "Gong Ke 203",
+    "translated": "Engineering & Tech 203"
+  },
+  "工科視聽室": {
+    "shortened_name": "工科視聽室",
+    "pinyin": "Gong Ke Shi Ting Shi",
+    "translated": "Engineering & Tech AV Room"
+  },
+  "工綜207": {
+    "shortened_name": "工綜207",
+    "pinyin": "Gong Zong 207",
+    "translated": "College of Engineering Building 207"
+  },
+  "工綜209": {
+    "shortened_name": "工綜209",
+    "pinyin": "Gong Zong 209",
+    "translated": "College of Engineering Building 209"
+  },
+  "工綜313": {
+    "shortened_name": "工綜313",
+    "pinyin": "Gong Zong 313",
+    "translated": "College of Engineering Building 313"
+  },
+  "思亮106": {
+    "shortened_name": "思亮106",
+    "pinyin": "Si Liang 106",
+    "translated": "Shih-Liang Hall 106"
+  },
+  "思亮301": {
+    "shortened_name": "思亮301",
+    "pinyin": "Si Liang 301",
+    "translated": "Shih-Liang Hall 301"
+  },
+  "思亮401": {
+    "shortened_name": "思亮401",
+    "pinyin": "Si Liang 401",
+    "translated": "Shih-Liang Hall 401"
+  },
+  "思亮409": {
+    "shortened_name": "思亮409",
+    "pinyin": "Si Liang 409",
+    "translated": "Shih-Liang Hall 409"
+  },
+  "慶琅廳": {
+    "shortened_name": "慶琅廳",
+    "pinyin": "Qing Lang Ting",
+    "translated": "Qinglang Hall"
+  },
+  "應111": {
+    "shortened_name": "應111",
+    "pinyin": "Ying 111",
+    "translated": "Applied Science 111"
+  },
+  "應233": {
+    "shortened_name": "應233",
+    "pinyin": "Ying 233",
+    "translated": "Applied Science 233"
+  },
+  "戲夢空間": {
+    "shortened_name": "戲夢空間",
+    "pinyin": "Xi Meng Kong Jian",
+    "translated": "Drama Dream Space"
+  },
+  "文16": {
+    "shortened_name": "文16",
+    "pinyin": "Wen 16",
+    "translated": "College of Liberal Arts 16"
+  },
+  "文17": {
+    "shortened_name": "文17",
+    "pinyin": "Wen 17",
+    "translated": "College of Liberal Arts 17"
+  },
+  "文18": {
+    "shortened_name": "文18",
+    "pinyin": "Wen 18",
+    "translated": "College of Liberal Arts 18"
+  },
+  "文19": {
+    "shortened_name": "文19",
+    "pinyin": "Wen 19",
+    "translated": "College of Liberal Arts 19"
+  },
+  "新102": {
+    "shortened_name": "新102",
+    "pinyin": "Xin 102",
+    "translated": "Xinsheng Lecture Building 102"
+  },
+  "新103": {
+    "shortened_name": "新103",
+    "pinyin": "Xin 103",
+    "translated": "Xinsheng Lecture Building 103"
+  },
+  "新201": {
+    "shortened_name": "新201",
+    "pinyin": "Xin 201",
+    "translated": "Xinsheng Lecture Building 201"
+  },
+  "新202": {
+    "shortened_name": "新202",
+    "pinyin": "Xin 202",
+    "translated": "Xinsheng Lecture Building 202"
+  },
+  "新203": {
+    "shortened_name": "新203",
+    "pinyin": "Xin 203",
+    "translated": "Xinsheng Lecture Building 203"
+  },
+  "新204": {
+    "shortened_name": "新204",
+    "pinyin": "Xin 204",
+    "translated": "Xinsheng Lecture Building 204"
+  },
+  "新301": {
+    "shortened_name": "新301",
+    "pinyin": "Xin 301",
+    "translated": "Xinsheng Lecture Building 301"
+  },
+  "新302": {
+    "shortened_name": "新302",
+    "pinyin": "Xin 302",
+    "translated": "Xinsheng Lecture Building 302"
+  },
+  "新303": {
+    "shortened_name": "新303",
+    "pinyin": "Xin 303",
+    "translated": "Xinsheng Lecture Building 303"
+  },
+  "新304": {
+    "shortened_name": "新304",
+    "pinyin": "Xin 304",
+    "translated": "Xinsheng Lecture Building 304"
+  },
+  "新401": {
+    "shortened_name": "新401",
+    "pinyin": "Xin 401",
+    "translated": "Xinsheng Lecture Building 401"
+  },
+  "新402": {
+    "shortened_name": "新402",
+    "pinyin": "Xin 402",
+    "translated": "Xinsheng Lecture Building 402"
+  },
+  "新403": {
+    "shortened_name": "新403",
+    "pinyin": "Xin 403",
+    "translated": "Xinsheng Lecture Building 403"
+  },
+  "新404": {
+    "shortened_name": "新404",
+    "pinyin": "Xin 404",
+    "translated": "Xinsheng Lecture Building 404"
+  },
+  "新405": {
+    "shortened_name": "新405",
+    "pinyin": "Xin 405",
+    "translated": "Xinsheng Lecture Building 405"
+  },
+  "新501": {
+    "shortened_name": "新501",
+    "pinyin": "Xin 501",
+    "translated": "Xinsheng Lecture Building 501"
+  },
+  "新502": {
+    "shortened_name": "新502",
+    "pinyin": "Xin 502",
+    "translated": "Xinsheng Lecture Building 502"
+  },
+  "新503": {
+    "shortened_name": "新503",
+    "pinyin": "Xin 503",
+    "translated": "Xinsheng Lecture Building 503"
+  },
+  "新504": {
+    "shortened_name": "新504",
+    "pinyin": "Xin 504",
+    "translated": "Xinsheng Lecture Building 504"
+  },
+  "新505": {
+    "shortened_name": "新505",
+    "pinyin": "Xin 505",
+    "translated": "Xinsheng Lecture Building 505"
+  },
+  "新物111": {
+    "shortened_name": "新物111",
+    "pinyin": "Xin Wu 111",
+    "translated": "Physics Building 111"
+  },
+  "新物112": {
+    "shortened_name": "新物112",
+    "pinyin": "Xin Wu 112",
+    "translated": "Physics Building 112"
+  },
+  "新物207": {
+    "shortened_name": "新物207",
+    "pinyin": "Xin Wu 207",
+    "translated": "Physics Building 207"
+  },
+  "新物304": {
+    "shortened_name": "新物304",
+    "pinyin": "Xin Wu 304",
+    "translated": "Physics Building 304"
+  },
+  "新物406": {
+    "shortened_name": "新物406",
+    "pinyin": "Xin Wu 406",
+    "translated": "Physics Building 406"
+  },
+  "新物517": {
+    "shortened_name": "新物517",
+    "pinyin": "Xin Wu 517",
+    "translated": "Physics Building 517"
+  },
+  "新物618": {
+    "shortened_name": "新物618",
+    "pinyin": "Xin Wu 618",
+    "translated": "Physics Building 618"
+  },
+  "新物716": {
+    "shortened_name": "新物716",
+    "pinyin": "Xin Wu 716",
+    "translated": "Physics Building 716"
+  },
+  "新物833": {
+    "shortened_name": "新物833",
+    "pinyin": "Xin Wu 833",
+    "translated": "Physics Building 833"
+  },
+  "新聞103": {
+    "shortened_name": "新聞103",
+    "pinyin": "Xin Wen 103",
+    "translated": "Graduate Institute of Journalism 103"
+  },
+  "新聞304": {
+    "shortened_name": "新聞304",
+    "pinyin": "Xin Wen 304",
+    "translated": "Graduate Institute of Journalism 304"
+  },
+  "新聞308": {
+    "shortened_name": "新聞308",
+    "pinyin": "Xin Wen 308",
+    "translated": "Graduate Institute of Journalism 308"
+  },
+  "新聞313": {
+    "shortened_name": "新聞313",
+    "pinyin": "Xin Wen 313",
+    "translated": "Graduate Institute of Journalism 313"
+  },
+  "新聞401": {
+    "shortened_name": "新聞401",
+    "pinyin": "Xin Wen 401",
+    "translated": "Graduate Institute of Journalism 401"
+  },
+  "昆蟲201": {
+    "shortened_name": "昆蟲201",
+    "pinyin": "Kun Chong 201",
+    "translated": "Entomology 201"
+  },
+  "明達205": {
+    "shortened_name": "明達205",
+    "pinyin": "Ming Da 205",
+    "translated": "Ming Da Hall 205"
+  },
+  "明達225": {
+    "shortened_name": "明達225",
+    "pinyin": "Ming Da 225",
+    "translated": "Ming Da Hall 225"
+  },
+  "明達231": {
+    "shortened_name": "明達231",
+    "pinyin": "Ming Da 231",
+    "translated": "Ming Da Hall 231"
+  },
+  "明達303": {
+    "shortened_name": "明達303",
+    "pinyin": "Ming Da 303",
+    "translated": "Ming Da Hall 303"
+  },
+  "普101": {
+    "shortened_name": "普101",
+    "pinyin": "Pu 101",
+    "translated": "Putong Lecture Building 101"
+  },
+  "普102": {
+    "shortened_name": "普102",
+    "pinyin": "Pu 102",
+    "translated": "Putong Lecture Building 102"
+  },
+  "普103": {
+    "shortened_name": "普103",
+    "pinyin": "Pu 103",
+    "translated": "Putong Lecture Building 103"
+  },
+  "普201": {
+    "shortened_name": "普201",
+    "pinyin": "Pu 201",
+    "translated": "Putong Lecture Building 201"
+  },
+  "普202": {
+    "shortened_name": "普202",
+    "pinyin": "Pu 202",
+    "translated": "Putong Lecture Building 202"
+  },
+  "普203": {
+    "shortened_name": "普203",
+    "pinyin": "Pu 203",
+    "translated": "Putong Lecture Building 203"
+  },
+  "普204": {
+    "shortened_name": "普204",
+    "pinyin": "Pu 204",
+    "translated": "Putong Lecture Building 204"
+  },
+  "普205": {
+    "shortened_name": "普205",
+    "pinyin": "Pu 205",
+    "translated": "Putong Lecture Building 205"
+  },
+  "普301": {
+    "shortened_name": "普301",
+    "pinyin": "Pu 301",
+    "translated": "Putong Lecture Building 301"
+  },
+  "普302": {
+    "shortened_name": "普302",
+    "pinyin": "Pu 302",
+    "translated": "Putong Lecture Building 302"
+  },
+  "普303": {
+    "shortened_name": "普303",
+    "pinyin": "Pu 303",
+    "translated": "Putong Lecture Building 303"
+  },
+  "普304": {
+    "shortened_name": "普304",
+    "pinyin": "Pu 304",
+    "translated": "Putong Lecture Building 304"
+  },
+  "普305": {
+    "shortened_name": "普305",
+    "pinyin": "Pu 305",
+    "translated": "Putong Lecture Building 305"
+  },
+  "普306": {
+    "shortened_name": "普306",
+    "pinyin": "Pu 306",
+    "translated": "Putong Lecture Building 306"
+  },
+  "普401": {
+    "shortened_name": "普401",
+    "pinyin": "Pu 401",
+    "translated": "Putong Lecture Building 401"
+  },
+  "普402": {
+    "shortened_name": "普402",
+    "pinyin": "Pu 402",
+    "translated": "Putong Lecture Building 402"
+  },
+  "普403": {
+    "shortened_name": "普403",
+    "pinyin": "Pu 403",
+    "translated": "Putong Lecture Building 403"
+  },
+  "普404": {
+    "shortened_name": "普404",
+    "pinyin": "Pu 404",
+    "translated": "Putong Lecture Building 404"
+  },
+  "普405": {
+    "shortened_name": "普405",
+    "pinyin": "Pu 405",
+    "translated": "Putong Lecture Building 405"
+  },
+  "普406": {
+    "shortened_name": "普406",
+    "pinyin": "Pu 406",
+    "translated": "Putong Lecture Building 406"
+  },
+  "普501": {
+    "shortened_name": "普501",
+    "pinyin": "Pu 501",
+    "translated": "Putong Lecture Building 501"
+  },
+  "普502": {
+    "shortened_name": "普502",
+    "pinyin": "Pu 502",
+    "translated": "Putong Lecture Building 502"
+  },
+  "普503": {
+    "shortened_name": "普503",
+    "pinyin": "Pu 503",
+    "translated": "Putong Lecture Building 503"
+  },
+  "普504": {
+    "shortened_name": "普504",
+    "pinyin": "Pu 504",
+    "translated": "Putong Lecture Building 504"
+  },
+  "普505": {
+    "shortened_name": "普505",
+    "pinyin": "Pu 505",
+    "translated": "Putong Lecture Building 505"
+  },
+  "木性": {
+    "shortened_name": "木性",
+    "pinyin": "Mu Xing",
+    "translated": "Wood Properties Lab"
+  },
+  "林一": {
+    "shortened_name": "林一",
+    "pinyin": "Lin Yi",
+    "translated": "Forestry 1"
+  },
+  "林三": {
+    "shortened_name": "林三",
+    "pinyin": "Lin San",
+    "translated": "Forestry 3"
+  },
+  "林二": {
+    "shortened_name": "林二",
+    "pinyin": "Lin Er",
+    "translated": "Forestry 2"
+  },
+  "林五": {
+    "shortened_name": "林五",
+    "pinyin": "Lin Wu",
+    "translated": "Forestry 5"
+  },
+  "林四": {
+    "shortened_name": "林四",
+    "pinyin": "Lin Si",
+    "translated": "Forestry 4"
+  },
+  "棒壘球場": {
+    "shortened_name": "棒壘球場",
+    "pinyin": "Bang Lei Qiu Chang",
+    "translated": "Baseball/Softball Field"
+  },
+  "楊斌彥廳": {
+    "shortened_name": "楊斌彥廳",
+    "pinyin": "Yang Bin Yan Ting",
+    "translated": "Yang Binyan Hall"
+  },
+  "楊金豹演講廳": {
+    "shortened_name": "楊金豹演講廳",
+    "pinyin": "Yang Jin Bao Yan Jiang Ting",
+    "translated": "Yang Jinbao Lecture Hall"
+  },
+  "樂學205": {
+    "shortened_name": "樂學205",
+    "pinyin": "Le Xue 205",
+    "translated": "Lesyue Building 205"
+  },
+  "樂學館105": {
+    "shortened_name": "樂學館105",
+    "pinyin": "Le Xue Guan 105",
+    "translated": "Lesyue Building 105"
+  },
+  "樂學館106": {
+    "shortened_name": "樂學館106",
+    "pinyin": "Le Xue Guan 106",
+    "translated": "Lesyue Building 106"
+  },
+  "機械104": {
+    "shortened_name": "機械104",
+    "pinyin": "Ji Xie 104",
+    "translated": "Mechanical Engineering 104"
+  },
+  "機械105": {
+    "shortened_name": "機械105",
+    "pinyin": "Ji Xie 105",
+    "translated": "Mechanical Engineering 105"
+  },
+  "機械114": {
+    "shortened_name": "機械114",
+    "pinyin": "Ji Xie 114",
+    "translated": "Mechanical Engineering 114"
+  },
+  "機械115": {
+    "shortened_name": "機械115",
+    "pinyin": "Ji Xie 115",
+    "translated": "Mechanical Engineering 115"
+  },
+  "機械116": {
+    "shortened_name": "機械116",
+    "pinyin": "Ji Xie 116",
+    "translated": "Mechanical Engineering 116"
+  },
+  "檢506教室": {
+    "shortened_name": "檢506教室",
+    "pinyin": "Jian 506 Jiao Shi",
+    "translated": "Inspection Building 506 Classroom"
+  },
+  "歷史研討室": {
+    "shortened_name": "歷史研討室",
+    "pinyin": "Li Shi Yan Tao Shi",
+    "translated": "History Seminar Room"
+  },
+  "水森326": {
+    "shortened_name": "水森326",
+    "pinyin": "Shui Sen 326",
+    "translated": "Shui-Sen Hall 326"
+  },
+  "水森415": {
+    "shortened_name": "水森415",
+    "pinyin": "Shui Sen 415",
+    "translated": "Shui-Sen Hall 415"
+  },
+  "海研110教室": {
+    "shortened_name": "海研110教室",
+    "pinyin": "Hai Yan 110 Jiao Shi",
+    "translated": "Graduate Institute of Oceanography 110 Classroom"
+  },
+  "海研115": {
+    "shortened_name": "海研115",
+    "pinyin": "Hai Yan 115",
+    "translated": "Graduate Institute of Oceanography 115"
+  },
+  "海研231": {
+    "shortened_name": "海研231",
+    "pinyin": "Hai Yan 231",
+    "translated": "Graduate Institute of Oceanography 231"
+  },
+  "海研232": {
+    "shortened_name": "海研232",
+    "pinyin": "Hai Yan 232",
+    "translated": "Graduate Institute of Oceanography 232"
+  },
+  "海研300": {
+    "shortened_name": "海研300",
+    "pinyin": "Hai Yan 300",
+    "translated": "Graduate Institute of Oceanography 300"
+  },
+  "海研大講堂": {
+    "shortened_name": "海研大講堂",
+    "pinyin": "Hai Yan Da Jiang Tang",
+    "translated": "Oceanography Lecture Hall"
+  },
+  "漁科107": {
+    "shortened_name": "漁科107",
+    "pinyin": "Yu Ke 107",
+    "translated": "Fisheries Science 107"
+  },
+  "漁科302B": {
+    "shortened_name": "漁科302B",
+    "pinyin": "Yu Ke 302B",
+    "translated": "Fisheries Science 302 B"
+  },
+  "物治實習4F": {
+    "shortened_name": "物治實習4F",
+    "pinyin": "Wu Zhi Shi Xi 4F",
+    "translated": "Physical Therapy Practicum 4 F"
+  },
+  "環工102": {
+    "shortened_name": "環工102",
+    "pinyin": "Huan Gong 102",
+    "translated": "Environmental Engineering 102"
+  },
+  "環工103": {
+    "shortened_name": "環工103",
+    "pinyin": "Huan Gong 103",
+    "translated": "Environmental Engineering 103"
+  },
+  "生傳418室": {
+    "shortened_name": "生傳418室",
+    "pinyin": "Sheng Chuan 418 Shi",
+    "translated": "Bio-industrial Communication 418"
+  },
+  "生傳427室": {
+    "shortened_name": "生傳427室",
+    "pinyin": "Sheng Chuan 427 Shi",
+    "translated": "Bio-industrial Communication 427"
+  },
+  "生傳502室": {
+    "shortened_name": "生傳502室",
+    "pinyin": "Sheng Chuan 502 Shi",
+    "translated": "Bio-industrial Communication 502"
+  },
+  "生傳520室": {
+    "shortened_name": "生傳520室",
+    "pinyin": "Sheng Chuan 520 Shi",
+    "translated": "Bio-industrial Communication 520"
+  },
+  "生傳527室": {
+    "shortened_name": "生傳527室",
+    "pinyin": "Sheng Chuan 527 Shi",
+    "translated": "Bio-industrial Communication 527"
+  },
+  "生化N101": {
+    "shortened_name": "生化N101",
+    "pinyin": "Sheng Hua N101",
+    "translated": "Biochemistry N101"
+  },
+  "生工202": {
+    "shortened_name": "生工202",
+    "pinyin": "Sheng Gong 202",
+    "translated": "Bioenvironmental Engineering 202"
+  },
+  "生技館212": {
+    "shortened_name": "生技館212",
+    "pinyin": "Sheng Ji Guan 212",
+    "translated": "Biotechnology Center 212"
+  },
+  "生技館214": {
+    "shortened_name": "生技館214",
+    "pinyin": "Sheng Ji Guan 214",
+    "translated": "Biotechnology Center 214"
+  },
+  "生機101": {
+    "shortened_name": "生機101",
+    "pinyin": "Sheng Ji 101",
+    "translated": "Bio-industrial Mechatronics 101"
+  },
+  "生機201": {
+    "shortened_name": "生機201",
+    "pinyin": "Sheng Ji 201",
+    "translated": "Bio-industrial Mechatronics 201"
+  },
+  "生科1148": {
+    "shortened_name": "生科1148",
+    "pinyin": "Sheng Ke 1148",
+    "translated": "Life Science 1148"
+  },
+  "生科1217": {
+    "shortened_name": "生科1217",
+    "pinyin": "Sheng Ke 1217",
+    "translated": "Life Science 1217"
+  },
+  "生科1225": {
+    "shortened_name": "生科1225",
+    "pinyin": "Sheng Ke 1225",
+    "translated": "Life Science 1225"
+  },
+  "生科3A": {
+    "shortened_name": "生科3A",
+    "pinyin": "Sheng Ke 3A",
+    "translated": "Life Science 3 A"
+  },
+  "生科3C": {
+    "shortened_name": "生科3C",
+    "pinyin": "Sheng Ke 3C",
+    "translated": "Life Science 3 C"
+  },
+  "生科415": {
+    "shortened_name": "生科415",
+    "pinyin": "Sheng Ke 415",
+    "translated": "Life Science 415"
+  },
+  "生科419": {
+    "shortened_name": "生科419",
+    "pinyin": "Sheng Ke 419",
+    "translated": "Life Science 419"
+  },
+  "生科4A": {
+    "shortened_name": "生科4A",
+    "pinyin": "Sheng Ke 4A",
+    "translated": "Life Science 4 A"
+  },
+  "生科4B": {
+    "shortened_name": "生科4B",
+    "pinyin": "Sheng Ke 4B",
+    "translated": "Life Science 4 B"
+  },
+  "生科4C": {
+    "shortened_name": "生科4C",
+    "pinyin": "Sheng Ke 4C",
+    "translated": "Life Science 4 C"
+  },
+  "生科632": {
+    "shortened_name": "生科632",
+    "pinyin": "Sheng Ke 632",
+    "translated": "Life Science 632"
+  },
+  "生科735": {
+    "shortened_name": "生科735",
+    "pinyin": "Sheng Ke 735",
+    "translated": "Life Science 735"
+  },
+  "田徑場": {
+    "shortened_name": "田徑場",
+    "pinyin": "Tian Jing Chang",
+    "translated": "Track and Field Ground"
+  },
+  "畜一": {
+    "shortened_name": "畜一",
+    "pinyin": "Xu Yi",
+    "translated": "Animal Science 1"
+  },
+  "畜二": {
+    "shortened_name": "畜二",
+    "pinyin": "Xu Er",
+    "translated": "Animal Science 2"
+  },
+  "知203": {
+    "shortened_name": "知203",
+    "pinyin": "Zhi 203",
+    "translated": "Tomatake Hall 203"
+  },
+  "知207": {
+    "shortened_name": "知207",
+    "pinyin": "Zhi 207",
+    "translated": "Tomatake Hall 207"
+  },
+  "知武會議室": {
+    "shortened_name": "知武會議室",
+    "pinyin": "Zhi Wu Hui Yi Shi",
+    "translated": "Tomatake Hall Meeting Room"
+  },
+  "社101": {
+    "shortened_name": "社101",
+    "pinyin": "She 101",
+    "translated": "Sociology & Social Work 101"
+  },
+  "社103": {
+    "shortened_name": "社103",
+    "pinyin": "She 103",
+    "translated": "Sociology & Social Work 103"
+  },
+  "社110": {
+    "shortened_name": "社110",
+    "pinyin": "She 110",
+    "translated": "Sociology & Social Work 110"
+  },
+  "社114": {
+    "shortened_name": "社114",
+    "pinyin": "She 114",
+    "translated": "Sociology & Social Work 114"
+  },
+  "社203": {
+    "shortened_name": "社203",
+    "pinyin": "She 203",
+    "translated": "Sociology & Social Work 203"
+  },
+  "社205": {
+    "shortened_name": "社205",
+    "pinyin": "She 205",
+    "translated": "Sociology & Social Work 205"
+  },
+  "社207": {
+    "shortened_name": "社207",
+    "pinyin": "She 207",
+    "translated": "Sociology & Social Work 207"
+  },
+  "社209": {
+    "shortened_name": "社209",
+    "pinyin": "She 209",
+    "translated": "Sociology & Social Work 209"
+  },
+  "社211": {
+    "shortened_name": "社211",
+    "pinyin": "She 211",
+    "translated": "Sociology & Social Work 211"
+  },
+  "社318": {
+    "shortened_name": "社318",
+    "pinyin": "She 318",
+    "translated": "Sociology & Social Work 318"
+  },
+  "社科102": {
+    "shortened_name": "社科102",
+    "pinyin": "She Ke 102",
+    "translated": "College of Social Sciences 102"
+  },
+  "社科201": {
+    "shortened_name": "社科201",
+    "pinyin": "She Ke 201",
+    "translated": "College of Social Sciences 201"
+  },
+  "社科202": {
+    "shortened_name": "社科202",
+    "pinyin": "She Ke 202",
+    "translated": "College of Social Sciences 202"
+  },
+  "社科301": {
+    "shortened_name": "社科301",
+    "pinyin": "She Ke 301",
+    "translated": "College of Social Sciences 301"
+  },
+  "社科302": {
+    "shortened_name": "社科302",
+    "pinyin": "She Ke 302",
+    "translated": "College of Social Sciences 302"
+  },
+  "社科303": {
+    "shortened_name": "社科303",
+    "pinyin": "She Ke 303",
+    "translated": "College of Social Sciences 303"
+  },
+  "社科305": {
+    "shortened_name": "社科305",
+    "pinyin": "She Ke 305",
+    "translated": "College of Social Sciences 305"
+  },
+  "社科306": {
+    "shortened_name": "社科306",
+    "pinyin": "She Ke 306",
+    "translated": "College of Social Sciences 306"
+  },
+  "社科307": {
+    "shortened_name": "社科307",
+    "pinyin": "She Ke 307",
+    "translated": "College of Social Sciences 307"
+  },
+  "社科401": {
+    "shortened_name": "社科401",
+    "pinyin": "She Ke 401",
+    "translated": "College of Social Sciences 401"
+  },
+  "社科402": {
+    "shortened_name": "社科402",
+    "pinyin": "She Ke 402",
+    "translated": "College of Social Sciences 402"
+  },
+  "社科403": {
+    "shortened_name": "社科403",
+    "pinyin": "She Ke 403",
+    "translated": "College of Social Sciences 403"
+  },
+  "社科404": {
+    "shortened_name": "社科404",
+    "pinyin": "She Ke 404",
+    "translated": "College of Social Sciences 404"
+  },
+  "社科405": {
+    "shortened_name": "社科405",
+    "pinyin": "She Ke 405",
+    "translated": "College of Social Sciences 405"
+  },
+  "社科406": {
+    "shortened_name": "社科406",
+    "pinyin": "She Ke 406",
+    "translated": "College of Social Sciences 406"
+  },
+  "社科407": {
+    "shortened_name": "社科407",
+    "pinyin": "She Ke 407",
+    "translated": "College of Social Sciences 407"
+  },
+  "社科502": {
+    "shortened_name": "社科502",
+    "pinyin": "She Ke 502",
+    "translated": "College of Social Sciences 502"
+  },
+  "社科503": {
+    "shortened_name": "社科503",
+    "pinyin": "She Ke 503",
+    "translated": "College of Social Sciences 503"
+  },
+  "社科506": {
+    "shortened_name": "社科506",
+    "pinyin": "She Ke 506",
+    "translated": "College of Social Sciences 506"
+  },
+  "社科507": {
+    "shortened_name": "社科507",
+    "pinyin": "She Ke 507",
+    "translated": "College of Social Sciences 507"
+  },
+  "社科和碩講堂": {
+    "shortened_name": "社科和碩講堂",
+    "pinyin": "She Ke He Shuo Jiang Tang",
+    "translated": "College of Social Sciences He Shuo Lecture Hall"
+  },
+  "社科研601": {
+    "shortened_name": "社科研601",
+    "pinyin": "She Ke Yan 601",
+    "translated": "College of Social Sciences Research 601"
+  },
+  "社科研602": {
+    "shortened_name": "社科研602",
+    "pinyin": "She Ke Yan 602",
+    "translated": "College of Social Sciences Research 602"
+  },
+  "社科研603": {
+    "shortened_name": "社科研603",
+    "pinyin": "She Ke Yan 603",
+    "translated": "College of Social Sciences Research 603"
+  },
+  "社科研604": {
+    "shortened_name": "社科研604",
+    "pinyin": "She Ke Yan 604",
+    "translated": "College of Social Sciences Research 604"
+  },
+  "社科研605": {
+    "shortened_name": "社科研605",
+    "pinyin": "She Ke Yan 605",
+    "translated": "College of Social Sciences Research 605"
+  },
+  "社科研606": {
+    "shortened_name": "社科研606",
+    "pinyin": "She Ke Yan 606",
+    "translated": "College of Social Sciences Research 606"
+  },
+  "社科研607": {
+    "shortened_name": "社科研607",
+    "pinyin": "She Ke Yan 607",
+    "translated": "College of Social Sciences Research 607"
+  },
+  "社科研608": {
+    "shortened_name": "社科研608",
+    "pinyin": "She Ke Yan 608",
+    "translated": "College of Social Sciences Research 608"
+  },
+  "管一101": {
+    "shortened_name": "管一101",
+    "pinyin": "Guan Yi 101",
+    "translated": "Management Building 1 101"
+  },
+  "管一102": {
+    "shortened_name": "管一102",
+    "pinyin": "Guan Yi 102",
+    "translated": "Management Building 1 102"
+  },
+  "管一103": {
+    "shortened_name": "管一103",
+    "pinyin": "Guan Yi 103",
+    "translated": "Management Building 1 103"
+  },
+  "管一104": {
+    "shortened_name": "管一104",
+    "pinyin": "Guan Yi 104",
+    "translated": "Management Building 1 104"
+  },
+  "管一203": {
+    "shortened_name": "管一203",
+    "pinyin": "Guan Yi 203",
+    "translated": "Management Building 1 203"
+  },
+  "管一402": {
+    "shortened_name": "管一402",
+    "pinyin": "Guan Yi 402",
+    "translated": "Management Building 1 402"
+  },
+  "管一403": {
+    "shortened_name": "管一403",
+    "pinyin": "Guan Yi 403",
+    "translated": "Management Building 1 403"
+  },
+  "管一405": {
+    "shortened_name": "管一405",
+    "pinyin": "Guan Yi 405",
+    "translated": "Management Building 1 405"
+  },
+  "管一B01": {
+    "shortened_name": "管一B01",
+    "pinyin": "Guan Yi B01",
+    "translated": "Management Building 1 B01"
+  },
+  "管一大電腦": {
+    "shortened_name": "管一大電腦",
+    "pinyin": "Guan Yi Da Dian Nao",
+    "translated": "Management Building 1 Da Computer"
+  },
+  "管二101": {
+    "shortened_name": "管二101",
+    "pinyin": "Guan Er 101",
+    "translated": "Management Building 2 101"
+  },
+  "管二102": {
+    "shortened_name": "管二102",
+    "pinyin": "Guan Er 102",
+    "translated": "Management Building 2 102"
+  },
+  "管二103": {
+    "shortened_name": "管二103",
+    "pinyin": "Guan Er 103",
+    "translated": "Management Building 2 103"
+  },
+  "管二104": {
+    "shortened_name": "管二104",
+    "pinyin": "Guan Er 104",
+    "translated": "Management Building 2 104"
+  },
+  "管二201": {
+    "shortened_name": "管二201",
+    "pinyin": "Guan Er 201",
+    "translated": "Management Building 2 201"
+  },
+  "管二202": {
+    "shortened_name": "管二202",
+    "pinyin": "Guan Er 202",
+    "translated": "Management Building 2 202"
+  },
+  "管二203": {
+    "shortened_name": "管二203",
+    "pinyin": "Guan Er 203",
+    "translated": "Management Building 2 203"
+  },
+  "管二204": {
+    "shortened_name": "管二204",
+    "pinyin": "Guan Er 204",
+    "translated": "Management Building 2 204"
+  },
+  "管二205": {
+    "shortened_name": "管二205",
+    "pinyin": "Guan Er 205",
+    "translated": "Management Building 2 205"
+  },
+  "管二206": {
+    "shortened_name": "管二206",
+    "pinyin": "Guan Er 206",
+    "translated": "Management Building 2 206"
+  },
+  "管二301": {
+    "shortened_name": "管二301",
+    "pinyin": "Guan Er 301",
+    "translated": "Management Building 2 301"
+  },
+  "管二302": {
+    "shortened_name": "管二302",
+    "pinyin": "Guan Er 302",
+    "translated": "Management Building 2 302"
+  },
+  "管二303": {
+    "shortened_name": "管二303",
+    "pinyin": "Guan Er 303",
+    "translated": "Management Building 2 303"
+  },
+  "管二304": {
+    "shortened_name": "管二304",
+    "pinyin": "Guan Er 304",
+    "translated": "Management Building 2 304"
+  },
+  "管二305": {
+    "shortened_name": "管二305",
+    "pinyin": "Guan Er 305",
+    "translated": "Management Building 2 305"
+  },
+  "系上安排": {
+    "shortened_name": "系上安排",
+    "pinyin": "Xi Shang An Pai",
+    "translated": "Arranged by Department"
+  },
+  "系上自行安排": {
+    "shortened_name": "系上自行安排",
+    "pinyin": "Xi Shang Zi Xing An Pai",
+    "translated": "Arranged by Department"
+  },
+  "綜201": {
+    "shortened_name": "綜201",
+    "pinyin": "Zong 201",
+    "translated": "Zonghe Lecture Building 201"
+  },
+  "綜202": {
+    "shortened_name": "綜202",
+    "pinyin": "Zong 202",
+    "translated": "Zonghe Lecture Building 202"
+  },
+  "綜203": {
+    "shortened_name": "綜203",
+    "pinyin": "Zong 203",
+    "translated": "Zonghe Lecture Building 203"
+  },
+  "綜301": {
+    "shortened_name": "綜301",
+    "pinyin": "Zong 301",
+    "translated": "Zonghe Lecture Building 301"
+  },
+  "綜302": {
+    "shortened_name": "綜302",
+    "pinyin": "Zong 302",
+    "translated": "Zonghe Lecture Building 302"
+  },
+  "綜401": {
+    "shortened_name": "綜401",
+    "pinyin": "Zong 401",
+    "translated": "Zonghe Lecture Building 401"
+  },
+  "綜402": {
+    "shortened_name": "綜402",
+    "pinyin": "Zong 402",
+    "translated": "Zonghe Lecture Building 402"
+  },
+  "綜403": {
+    "shortened_name": "綜403",
+    "pinyin": "Zong 403",
+    "translated": "Zonghe Lecture Building 403"
+  },
+  "綜501": {
+    "shortened_name": "綜501",
+    "pinyin": "Zong 501",
+    "translated": "Zonghe Lecture Building 501"
+  },
+  "綜502": {
+    "shortened_name": "綜502",
+    "pinyin": "Zong 502",
+    "translated": "Zonghe Lecture Building 502"
+  },
+  "綜503": {
+    "shortened_name": "綜503",
+    "pinyin": "Zong 503",
+    "translated": "Zonghe Lecture Building 503"
+  },
+  "綜504": {
+    "shortened_name": "綜504",
+    "pinyin": "Zong 504",
+    "translated": "Zonghe Lecture Building 504"
+  },
+  "綜505": {
+    "shortened_name": "綜505",
+    "pinyin": "Zong 505",
+    "translated": "Zonghe Lecture Building 505"
+  },
+  "綜601": {
+    "shortened_name": "綜601",
+    "pinyin": "Zong 601",
+    "translated": "Zonghe Lecture Building 601"
+  },
+  "綜602": {
+    "shortened_name": "綜602",
+    "pinyin": "Zong 602",
+    "translated": "Zonghe Lecture Building 602"
+  },
+  "綜603": {
+    "shortened_name": "綜603",
+    "pinyin": "Zong 603",
+    "translated": "Zonghe Lecture Building 603"
+  },
+  "綜604": {
+    "shortened_name": "綜604",
+    "pinyin": "Zong 604",
+    "translated": "Zonghe Lecture Building 604"
+  },
+  "綜607": {
+    "shortened_name": "綜607",
+    "pinyin": "Zong 607",
+    "translated": "Zonghe Lecture Building 607"
+  },
+  "綜合大講堂": {
+    "shortened_name": "綜合大講堂",
+    "pinyin": "Zong He Da Jiang Tang",
+    "translated": "General Lecture Hall"
+  },
+  "綜館R204": {
+    "shortened_name": "綜館R204",
+    "pinyin": "Zong Guan R204",
+    "translated": "General Hall R204"
+  },
+  "綜館R225": {
+    "shortened_name": "綜館R225",
+    "pinyin": "Zong Guan R225",
+    "translated": "General Hall R225"
+  },
+  "綜館R247": {
+    "shortened_name": "綜館R247",
+    "pinyin": "Zong Guan R247",
+    "translated": "General Hall R247"
+  },
+  "綜館多功能": {
+    "shortened_name": "綜館多功能",
+    "pinyin": "Zong Guan Duo Gong Neng",
+    "translated": "General Hall Multi-Function Room"
+  },
+  "綜館柔道室": {
+    "shortened_name": "綜館柔道室",
+    "pinyin": "Zong Guan Rou Dao Shi",
+    "translated": "General Hall Judo Room"
+  },
+  "綜館舞蹈室": {
+    "shortened_name": "綜館舞蹈室",
+    "pinyin": "Zong Guan Wu Dao Shi",
+    "translated": "General Hall Dance Room"
+  },
+  "總一館102": {
+    "shortened_name": "總一館102",
+    "pinyin": "Zong Yi Guan 102",
+    "translated": "Main Building 1 102"
+  },
+  "總一館106": {
+    "shortened_name": "總一館106",
+    "pinyin": "Zong Yi Guan 106",
+    "translated": "Main Building 1 106"
+  },
+  "總一館108": {
+    "shortened_name": "總一館108",
+    "pinyin": "Zong Yi Guan 108",
+    "translated": "Main Building 1 108"
+  },
+  "總一館114": {
+    "shortened_name": "總一館114",
+    "pinyin": "Zong Yi Guan 114",
+    "translated": "Main Building 1 114"
+  },
+  "總一館115": {
+    "shortened_name": "總一館115",
+    "pinyin": "Zong Yi Guan 115",
+    "translated": "Main Building 1 115"
+  },
+  "總一館118": {
+    "shortened_name": "總一館118",
+    "pinyin": "Zong Yi Guan 118",
+    "translated": "Main Building 1 118"
+  },
+  "總一館201": {
+    "shortened_name": "總一館201",
+    "pinyin": "Zong Yi Guan 201",
+    "translated": "Main Building 1 201"
+  },
+  "總一館202": {
+    "shortened_name": "總一館202",
+    "pinyin": "Zong Yi Guan 202",
+    "translated": "Main Building 1 202"
+  },
+  "總一館210": {
+    "shortened_name": "總一館210",
+    "pinyin": "Zong Yi Guan 210",
+    "translated": "Main Building 1 210"
+  },
+  "總一館308": {
+    "shortened_name": "總一館308",
+    "pinyin": "Zong Yi Guan 308",
+    "translated": "Main Building 1 308"
+  },
+  "繡山講堂": {
+    "shortened_name": "繡山講堂",
+    "pinyin": "Xiu Shan Jiang Tang",
+    "translated": "Xiushan Lecture Hall"
+  },
+  "聯電講堂": {
+    "shortened_name": "聯電講堂",
+    "pinyin": "Lian Dian Jiang Tang",
+    "translated": "UMC Lecture Hall"
+  },
+  "自行安排": {
+    "shortened_name": "自行安排",
+    "pinyin": "Zi Xing An Pai",
+    "translated": "Self-arranged"
+  },
+  "華夏": {
+    "shortened_name": "華夏",
+    "pinyin": "Hua Xia",
+    "translated": "Hwahsia University of Technology"
+  },
+  "華夏中正堂A205": {
+    "shortened_name": "華夏中正堂A205",
+    "pinyin": "Hua Xia Zhong Zheng Tang A205",
+    "translated": "Hwahsia Zhongzheng Hall A205"
+  },
+  "華夏中正堂A304": {
+    "shortened_name": "華夏中正堂A304",
+    "pinyin": "Hua Xia Zhong Zheng Tang A304",
+    "translated": "Hwahsia Zhongzheng Hall A304"
+  },
+  "華夏中正堂A305": {
+    "shortened_name": "華夏中正堂A305",
+    "pinyin": "Hua Xia Zhong Zheng Tang A305",
+    "translated": "Hwahsia Zhongzheng Hall A305"
+  },
+  "華夏建築館B201": {
+    "shortened_name": "華夏建築館B201",
+    "pinyin": "Hua Xia Jian Zhu Guan B201",
+    "translated": "Hwahsia Architecture Building B201"
+  },
+  "華夏建築館B302": {
+    "shortened_name": "華夏建築館B302",
+    "pinyin": "Hua Xia Jian Zhu Guan B302",
+    "translated": "Hwahsia Architecture Building B302"
+  },
+  "華夏建築館B402": {
+    "shortened_name": "華夏建築館B402",
+    "pinyin": "Hua Xia Jian Zhu Guan B402",
+    "translated": "Hwahsia Architecture Building B402"
+  },
+  "華夏恆毅樓D205": {
+    "shortened_name": "華夏恆毅樓D205",
+    "pinyin": "Hua Xia Heng Yi Lou D205",
+    "translated": "Hwahsia Hengyi Building D205"
+  },
+  "華夏恆毅樓D301": {
+    "shortened_name": "華夏恆毅樓D301",
+    "pinyin": "Hua Xia Heng Yi Lou D301",
+    "translated": "Hwahsia Hengyi Building D301"
+  },
+  "華夏恆毅樓D302": {
+    "shortened_name": "華夏恆毅樓D302",
+    "pinyin": "Hua Xia Heng Yi Lou D302",
+    "translated": "Hwahsia Hengyi Building D302"
+  },
+  "華夏恆毅樓D303": {
+    "shortened_name": "華夏恆毅樓D303",
+    "pinyin": "Hua Xia Heng Yi Lou D303",
+    "translated": "Hwahsia Hengyi Building D303"
+  },
+  "華夏恆毅樓D305": {
+    "shortened_name": "華夏恆毅樓D305",
+    "pinyin": "Hua Xia Heng Yi Lou D305",
+    "translated": "Hwahsia Hengyi Building D305"
+  },
+  "華夏恆毅樓D306": {
+    "shortened_name": "華夏恆毅樓D306",
+    "pinyin": "Hua Xia Heng Yi Lou D306",
+    "translated": "Hwahsia Hengyi Building D306"
+  },
+  "華夏恆毅樓D401": {
+    "shortened_name": "華夏恆毅樓D401",
+    "pinyin": "Hua Xia Heng Yi Lou D401",
+    "translated": "Hwahsia Hengyi Building D401"
+  },
+  "華夏恆毅樓D402": {
+    "shortened_name": "華夏恆毅樓D402",
+    "pinyin": "Hua Xia Heng Yi Lou D402",
+    "translated": "Hwahsia Hengyi Building D402"
+  },
+  "華夏恆毅樓D403": {
+    "shortened_name": "華夏恆毅樓D403",
+    "pinyin": "Hua Xia Heng Yi Lou D403",
+    "translated": "Hwahsia Hengyi Building D403"
+  },
+  "華夏恆毅樓D405": {
+    "shortened_name": "華夏恆毅樓D405",
+    "pinyin": "Hua Xia Heng Yi Lou D405",
+    "translated": "Hwahsia Hengyi Building D405"
+  },
+  "華夏恆毅樓D406": {
+    "shortened_name": "華夏恆毅樓D406",
+    "pinyin": "Hua Xia Heng Yi Lou D406",
+    "translated": "Hwahsia Hengyi Building D406"
+  },
+  "華夏恆毅樓D507": {
+    "shortened_name": "華夏恆毅樓D507",
+    "pinyin": "Hua Xia Heng Yi Lou D507",
+    "translated": "Hwahsia Hengyi Building D507"
+  },
+  "華夏恆毅樓D607": {
+    "shortened_name": "華夏恆毅樓D607",
+    "pinyin": "Hua Xia Heng Yi Lou D607",
+    "translated": "Hwahsia Hengyi Building D607"
+  },
+  "華夏教學大樓C109": {
+    "shortened_name": "華夏教學大樓C109",
+    "pinyin": "Hua Xia Jiao Xue Da Lou C109",
+    "translated": "Hwahsia Lecture Building C109"
+  },
+  "華夏機械館G102": {
+    "shortened_name": "華夏機械館G102",
+    "pinyin": "Hua Xia Ji Xie Guan G102",
+    "translated": "Hwahsia Mechanical Building G102"
+  },
+  "華夏機械館G202": {
+    "shortened_name": "華夏機械館G202",
+    "pinyin": "Hua Xia Ji Xie Guan G202",
+    "translated": "Hwahsia Mechanical Building G202"
+  },
+  "華夏機械館G205": {
+    "shortened_name": "華夏機械館G205",
+    "pinyin": "Hua Xia Ji Xie Guan G205",
+    "translated": "Hwahsia Mechanical Building G205"
+  },
+  "華夏機械館G309": {
+    "shortened_name": "華夏機械館G309",
+    "pinyin": "Hua Xia Ji Xie Guan G309",
+    "translated": "Hwahsia Mechanical Building G309"
+  },
+  "華夏機械館G401": {
+    "shortened_name": "華夏機械館G401",
+    "pinyin": "Hua Xia Ji Xie Guan G401",
+    "translated": "Hwahsia Mechanical Building G401"
+  },
+  "華夏機械館G407": {
+    "shortened_name": "華夏機械館G407",
+    "pinyin": "Hua Xia Ji Xie Guan G407",
+    "translated": "Hwahsia Mechanical Building G407"
+  },
+  "華夏機械館G501": {
+    "shortened_name": "華夏機械館G501",
+    "pinyin": "Hua Xia Ji Xie Guan G501",
+    "translated": "Hwahsia Mechanical Building G501"
+  },
+  "華夏營管大樓K502": {
+    "shortened_name": "華夏營管大樓K502",
+    "pinyin": "Hua Xia Ying Guan Da Lou K502",
+    "translated": "Hwahsia Construction Management Building K502"
+  },
+  "華夏營管大樓K506": {
+    "shortened_name": "華夏營管大樓K506",
+    "pinyin": "Hua Xia Ying Guan Da Lou K506",
+    "translated": "Hwahsia Construction Management Building K506"
+  },
+  "華夏聚鈺樓H205": {
+    "shortened_name": "華夏聚鈺樓H205",
+    "pinyin": "Hua Xia Ju Yu Lou H205",
+    "translated": "Hwahsia Juyu Building H205"
+  },
+  "華夏聚鈺樓國際會議廳": {
+    "shortened_name": "華夏聚鈺樓國際會議廳",
+    "pinyin": "Hua Xia Ju Yu Lou Guo Ji Hui Yi Ting",
+    "translated": "Hwahsia Juyu Building Intl Conf Hall"
+  },
+  "萬2101": {
+    "shortened_name": "萬2101",
+    "pinyin": "Wan 2101",
+    "translated": "Wan-Tsai Research Hall 2101"
+  },
+  "萬2201": {
+    "shortened_name": "萬2201",
+    "pinyin": "Wan 2201",
+    "translated": "Wan-Tsai Research Hall 2201"
+  },
+  "萬2311": {
+    "shortened_name": "萬2311",
+    "pinyin": "Wan 2311",
+    "translated": "Wan-Tsai Research Hall 2311"
+  },
+  "計資106": {
+    "shortened_name": "計資106",
+    "pinyin": "Ji Zi 106",
+    "translated": "Computer & Info Center 106"
+  },
+  "請洽系所辦": {
+    "shortened_name": "請洽系所辦",
+    "pinyin": "Qing Qia Xi Suo Ban",
+    "translated": "Contact Dept Office"
+  },
+  "資101": {
+    "shortened_name": "資101",
+    "pinyin": "Zi 101",
+    "translated": "Info Building 101"
+  },
+  "資102": {
+    "shortened_name": "資102",
+    "pinyin": "Zi 102",
+    "translated": "Info Building 102"
+  },
+  "資103": {
+    "shortened_name": "資103",
+    "pinyin": "Zi 103",
+    "translated": "Info Building 103"
+  },
+  "資104": {
+    "shortened_name": "資104",
+    "pinyin": "Zi 104",
+    "translated": "Info Building 104"
+  },
+  "資105": {
+    "shortened_name": "資105",
+    "pinyin": "Zi 105",
+    "translated": "Info Building 105"
+  },
+  "資107": {
+    "shortened_name": "資107",
+    "pinyin": "Zi 107",
+    "translated": "Info Building 107"
+  },
+  "資110": {
+    "shortened_name": "資110",
+    "pinyin": "Zi 110",
+    "translated": "Info Building 110"
+  },
+  "資111": {
+    "shortened_name": "資111",
+    "pinyin": "Zi 111",
+    "translated": "Info Building 111"
+  },
+  "轉溫101": {
+    "shortened_name": "轉溫101",
+    "pinyin": "Zhuan Wen 101",
+    "translated": "Translational Medicine 101"
+  },
+  "農化一第五": {
+    "shortened_name": "農化一第五",
+    "pinyin": "Nong Hua Yi Di Wu",
+    "translated": "Agricultural Chemistry 1 Di Wu"
+  },
+  "農化一第六": {
+    "shortened_name": "農化一第六",
+    "pinyin": "Nong Hua Yi Di Liu",
+    "translated": "Agricultural Chemistry 1 Di Liu"
+  },
+  "農化一第六-1": {
+    "shortened_name": "農化一第六-1",
+    "pinyin": "Nong Hua Yi Di Liu -1",
+    "translated": "Agricultural Chemistry 1 Di Liu-1"
+  },
+  "農化二105": {
+    "shortened_name": "農化二105",
+    "pinyin": "Nong Hua Er 105",
+    "translated": "Agricultural Chemistry 2 105"
+  },
+  "農化二106": {
+    "shortened_name": "農化二106",
+    "pinyin": "Nong Hua Er 106",
+    "translated": "Agricultural Chemistry 2 106"
+  },
+  "農化二106-1": {
+    "shortened_name": "農化二106-1",
+    "pinyin": "Nong Hua Er 106-1",
+    "translated": "Agricultural Chemistry 2 106-1"
+  },
+  "農化二107": {
+    "shortened_name": "農化二107",
+    "pinyin": "Nong Hua Er 107",
+    "translated": "Agricultural Chemistry 2 107"
+  },
+  "農化二110-1": {
+    "shortened_name": "農化二110-1",
+    "pinyin": "Nong Hua Er 110-1",
+    "translated": "Agricultural Chemistry 2 110-1"
+  },
+  "農化二B10": {
+    "shortened_name": "農化二B10",
+    "pinyin": "Nong Hua Er B10",
+    "translated": "Agricultural Chemistry 2 B10"
+  },
+  "農化二B10-1": {
+    "shortened_name": "農化二B10-1",
+    "pinyin": "Nong Hua Er B10-1",
+    "translated": "Agricultural Chemistry 2 B10-1"
+  },
+  "農化二B11": {
+    "shortened_name": "農化二B11",
+    "pinyin": "Nong Hua Er B11",
+    "translated": "Agricultural Chemistry 2 B11"
+  },
+  "農場考種館": {
+    "shortened_name": "農場考種館",
+    "pinyin": "Nong Chang Kao Zhong Guan",
+    "translated": "Farm Seed Testing Hall"
+  },
+  "農工九": {
+    "shortened_name": "農工九",
+    "pinyin": "Nong Gong Jiu",
+    "translated": "Agricultural Engineering 9"
+  },
+  "農工十": {
+    "shortened_name": "農工十",
+    "pinyin": "Nong Gong Shi",
+    "translated": "Agricultural Engineering 10"
+  },
+  "農工繪圖室": {
+    "shortened_name": "農工繪圖室",
+    "pinyin": "Nong Gong Hui Tu Shi",
+    "translated": "Ag Eng Drawing Room"
+  },
+  "農工金城": {
+    "shortened_name": "農工金城",
+    "pinyin": "Nong Gong Jin Cheng",
+    "translated": "Ag Eng Jincheng"
+  },
+  "農經三": {
+    "shortened_name": "農經三",
+    "pinyin": "Nong Jing San",
+    "translated": "Agricultural Economics 3"
+  },
+  "農經二": {
+    "shortened_name": "農經二",
+    "pinyin": "Nong Jing Er",
+    "translated": "Agricultural Economics 2"
+  },
+  "農經大講堂": {
+    "shortened_name": "農經大講堂",
+    "pinyin": "Nong Jing Da Jiang Tang",
+    "translated": "Agricultural Economics Lecture Hall"
+  },
+  "農經會議室": {
+    "shortened_name": "農經會議室",
+    "pinyin": "Nong Jing Hui Yi Shi",
+    "translated": "Agricultural Economics Meeting Room"
+  },
+  "農藝112": {
+    "shortened_name": "農藝112",
+    "pinyin": "Nong Yi 112",
+    "translated": "Agronomy 112"
+  },
+  "農藝206": {
+    "shortened_name": "農藝206",
+    "pinyin": "Nong Yi 206",
+    "translated": "Agronomy 206"
+  },
+  "造園館R101": {
+    "shortened_name": "造園館R101",
+    "pinyin": "Zao Yuan Guan R101",
+    "translated": "Landscape & Gardening Building R101"
+  },
+  "造園館R102": {
+    "shortened_name": "造園館R102",
+    "pinyin": "Zao Yuan Guan R102",
+    "translated": "Landscape & Gardening Building R102"
+  },
+  "進學講堂": {
+    "shortened_name": "進學講堂",
+    "pinyin": "Jin Xue Jiang Tang",
+    "translated": "Jinxue Lecture Hall"
+  },
+  "電二101": {
+    "shortened_name": "電二101",
+    "pinyin": "Dian Er 101",
+    "translated": "EE Building 2 101"
+  },
+  "電二102": {
+    "shortened_name": "電二102",
+    "pinyin": "Dian Er 102",
+    "translated": "EE Building 2 102"
+  },
+  "電二104": {
+    "shortened_name": "電二104",
+    "pinyin": "Dian Er 104",
+    "translated": "EE Building 2 104"
+  },
+  "電二106": {
+    "shortened_name": "電二106",
+    "pinyin": "Dian Er 106",
+    "translated": "EE Building 2 106"
+  },
+  "電二143": {
+    "shortened_name": "電二143",
+    "pinyin": "Dian Er 143",
+    "translated": "EE Building 2 143"
+  },
+  "電二144": {
+    "shortened_name": "電二144",
+    "pinyin": "Dian Er 144",
+    "translated": "EE Building 2 144"
+  },
+  "電二145": {
+    "shortened_name": "電二145",
+    "pinyin": "Dian Er 145",
+    "translated": "EE Building 2 145"
+  },
+  "電二146": {
+    "shortened_name": "電二146",
+    "pinyin": "Dian Er 146",
+    "translated": "EE Building 2 146"
+  },
+  "電二225": {
+    "shortened_name": "電二225",
+    "pinyin": "Dian Er 225",
+    "translated": "EE Building 2 225"
+  },
+  "電二229": {
+    "shortened_name": "電二229",
+    "pinyin": "Dian Er 229",
+    "translated": "EE Building 2 229"
+  },
+  "電電實驗室": {
+    "shortened_name": "電電實驗室",
+    "pinyin": "Dian Dian Shi Yan Shi",
+    "translated": "Electrical Lab"
+  },
+  "霖1302": {
+    "shortened_name": "霖1302",
+    "pinyin": "Lin 1302",
+    "translated": "Tsai Lecture Hall 1302"
+  },
+  "霖1303": {
+    "shortened_name": "霖1303",
+    "pinyin": "Lin 1303",
+    "translated": "Tsai Lecture Hall 1303"
+  },
+  "霖1304": {
+    "shortened_name": "霖1304",
+    "pinyin": "Lin 1304",
+    "translated": "Tsai Lecture Hall 1304"
+  },
+  "霖1401": {
+    "shortened_name": "霖1401",
+    "pinyin": "Lin 1401",
+    "translated": "Tsai Lecture Hall 1401"
+  },
+  "霖1402": {
+    "shortened_name": "霖1402",
+    "pinyin": "Lin 1402",
+    "translated": "Tsai Lecture Hall 1402"
+  },
+  "霖1403": {
+    "shortened_name": "霖1403",
+    "pinyin": "Lin 1403",
+    "translated": "Tsai Lecture Hall 1403"
+  },
+  "霖1506": {
+    "shortened_name": "霖1506",
+    "pinyin": "Lin 1506",
+    "translated": "Tsai Lecture Hall 1506"
+  },
+  "霖研一1501": {
+    "shortened_name": "霖研一1501",
+    "pinyin": "Lin Yan Yi 1501",
+    "translated": "Tsai Research Hall 1-1501"
+  },
+  "霖研五1702": {
+    "shortened_name": "霖研五1702",
+    "pinyin": "Lin Yan Wu 1702",
+    "translated": "Tsai Research Hall 5-1702"
+  },
+  "霖研六1703": {
+    "shortened_name": "霖研六1703",
+    "pinyin": "Lin Yan Liu 1703",
+    "translated": "Tsai Research Hall 6-1703"
+  },
+  "霖研四1701": {
+    "shortened_name": "霖研四1701",
+    "pinyin": "Lin Yan Si 1701",
+    "translated": "Tsai Research Hall 4-1701"
+  },
+  "食科102": {
+    "shortened_name": "食科102",
+    "pinyin": "Shi Ke 102",
+    "translated": "Food Science 102"
+  }
+}
